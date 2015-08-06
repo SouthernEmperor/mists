@@ -420,6 +420,39 @@ scottish = {
 		tribal_name = "TRIBAL_NAME_PROV_CLAN"
 	}
 	
+	#islander = {
+	#	graphical_cultures = { celticgfx }
+	#	color = { 1.0 0.3 0.3 }
+	#	
+	#	male_names = {
+	#		Aether Aidden
+	#	}
+	#	female_names = {
+	#		Adelle Agate
+	#	}
+	#	
+	#	dukes_called_kings = yes
+	#	
+	#	from_dynasty_prefix = "de "
+	#	prefix = yes
+	#
+	#	modifier = default_culture_modifier
+	#	pat_grf_name_chance = 30
+	#	mat_grf_name_chance = 15
+	#	father_name_chance = 5
+	#	
+	#	pat_grm_name_chance = 30
+	#	mat_grm_name_chance = 15
+	#	mother_name_chance = 10
+	#	
+	#	tribal_name = "TRIBAL_NAME_PROV_CLAN"
+	#	
+	#	modifier = default_culture_modifier
+	#	
+	#	seafarer = yes
+	#	
+	}
+	
 	orkade = {
 	
 		graphical_cultures = { norsegfx }
@@ -497,13 +530,59 @@ scottish = {
 		allow_looting = yes
 
 		modifier = default_culture_modifier
-	
 	}
 
 }
 
 irish = {
 	graphical_cultures = { westerngfx }
+	
+	mistfolk = {
+	
+		graphical_cultures = { mesoamericangfx celticgfx }
+		color = { 0.6 0.0 0.0 }
+		
+		male_names = {
+			Ague Amethyst "Annabel Lee" Arachne Ash Autumn Avarice Balor Belinda Belladonna
+			Branwen Bronwen Briar Chalice Chaos Chimera Chrysanthemum Circe Clove Crowe Delora
+			Daemon Desdemona Diti Dolores Draconia Draven Elsinore Esmerée Eulalie Eurydice Foxglove
+			Freya Funereal Gabriel Gehenna Golgotha Grendel Gryphon Grimoire Hades Hecate Hellebore
+			Hemlock Isolde Israfel Jack Jezabel Leila Lenore Lilith Lily Lolita Lovecraft Lucifer
+			Luna Malik Maleficent Mara Medusa Melancholia Melania Mercy Merula Mephistopheles
+			Midnight Moon Morte Narcissa Nephilim Nightshade Nimue Nin Nocturne November October
+			Oleander Ophelia Orchid Perdita Raven Sabrina Sage Salem Samhain Sanctity Shabriri Shade
+			Shadow Spike Sullen Thorne Titania Tristan Twilight Vespers Vladimir Willow Winter Wolfe
+		}
+		
+		female_names = {
+			Ague Amethyst "Annabel Lee" Arachne Ash Autumn Avarice Balor Belinda Belladonna
+			Branwen Bronwen Briar Chalice Chaos Chimera Chrysanthemum Circe Clove Crowe Delora
+			Daemon Desdemona Diti Dolores Draconia Draven Elsinore Esmerée Eulalie Eurydice Foxglove
+			Freya Funereal Gabriel Gehenna Golgotha Grendel Gryphon Grimoire Hades Hecate Hellebore
+			Hemlock Isolde Israfel Jack Jezabel Leila Lenore Lilith Lily Lolita Lovecraft Lucifer
+			Luna Malik Maleficent Mara Medusa Melancholia Melania Mercy Merula Mephistopheles
+			Midnight Moon Morte Narcissa Nephilim Nightshade Nimue Nin Nocturne November October
+			Oleander Ophelia Orchid Perdita Raven Sabrina Sage Salem Samhain Sanctity Shabriri Shade
+			Shadow Spike Sullen Thorne Titania Tristan Twilight Vespers Vladimir Willow Winter Wolfe
+		}
+		
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier	
+	}
+	
 }
 
 brownmen = {
@@ -669,7 +748,44 @@ blackmen = {
 	}
 }
 
-slavic_group {
+chainaren_group = {
+
+	graphical_cultures = { westerngfx }
+	
+	chainaren = {
+		graphical_cultures = { mongolgfx westerngfx }
+		color = { 0.8 0.8 0.3 }
+		
+		male_names = {
+			Aidehua	Aili Aisake	Ali	Alisha Along Aolifu	Aomaer Aosika Ase Ben Bulaike Chali	Danni Dawei Dilan Feilipu Fuleidi Hali
+			Halisen	Hawei Hengli Jian Jieke	Kaleibu	Kangna Laili Leiou Lenei Lian Lougan Luka Maike	Makesi Maxiu Muhanmode Neisen Nuoa
+			Ouwen Qiaozhi Saibasiadian Shanmu Tuobi	Tuoma Tuoni	Weilian	Xiao Yadang	Yagebu Yalishanda Yaohan Yaoshuya Yibulaxin	Yifu
+			Yisang Yiwan Yuesefu Yuguo Zakali Zhanmusi
+		}
+		
+		female_names = {
+			Abigaier Aiersha Aifulin Ailisha Ailisi	Aima Aimei Aimili Aiwei	Anbo Anna Aoliweiya	Awa	Beitani	Daixi Dannier Feibei Foluolensi
+			Geleisi	Hanna Heli Jiexika Kaidi Kaila Kaoteni Kelaila Keluoai Laha	Leila Leiya	Libeika	Lili Lubi Luobin Luola Luosi Luxi Maidixun
+			Mali Masha Maya	Meier Mila Mili	Miya Moli Naaomi Popi Qiaozhiya	Shala Sijiali Sufeiya Weiduoliya Xialudi Yila Yilianna Yilin Yilishabei
+			Yisabeila Zhansimin
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+slavic_group = {
 	graphical_cultures = { easterngfx }
 
 }
