@@ -1,0 +1,10 @@
+1 = {
+	name=Reus
+	dynasty=752
+	
+	religion=catholic
+	culture=sylheti
+	
+	1027.01.15 = { birth=yes }
+	1087.09.09 = { death=yes }
+}

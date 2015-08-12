@@ -1,0 +1,10 @@
+name = "Mists of Avalon"
+path = "mod/Mists of Avalon"
+user_dir = "Mists of Avalon"
+
+replace_path = "history/provinces"
+replace_path = "history/titles"
+replace_path = "history/wars"
+replace_path = "history/characters"
+replace_path = "common/landed_titles"
+replace_path = "common/cultures"

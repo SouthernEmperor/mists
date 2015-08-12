@@ -1,0 +1,41 @@
+brownmen = {
+	graphical_cultures = { indiangfx muslimgfx }
+		sylheti = {
+		graphical_cultures = { indiangfx muslimgfx }
+		secondary_event_pictures = bengali
+		color = { 0.45 0.0 0.0 }
+		male_names = {
+			Abdul Ahmed	Ajmal Akash Altab Amdad	Anwar Arafat Arif Azam Dev	
+			Enamul Fakhruddin Faysal Hasan Imrul Iqbal Islam Jamal
+			Javed Jubair Kabir Kamrul Khaled Mashrafe Mominul Mushfiqur	
+			Nasir Nazrul Omar Parvez Rafique Ragib Rahman Rana Rasel	
+			Reza Rony Rubel	Saddam Sajid Sami Samir Sayeed Shafayat	
+			Shafiul Shahriar Shakib Shamsuddin Sohag Soumya Sumon Taijul Tamim	
+			Tapash Taskin Yunus Zahir Ziaur Zubayer
+		}
+		female_names = {
+			Afshan Amina Ayasha Bindu Chamely Chondona Chumki Dalia Disha Fargana
+			Farhana	Fatima  Hamida Hasina Jahanara Joynab Kanak Khaleda	
+			Kia	Luna Maliha	Manzila	Meghla Mili	Mina Misty Monica Naznin Nilima	
+			Nishad Panna Priyanti Rehana Rifatara Riya Roji Rowshan Rumana Rushanara
+			Sadia Salma	Sanjana	Sanjida	Sharmin	Shathira Shayla Shefali Shirina	Shium
+			Shukhtara Sitara Sohini Srabonti Tahin Tanzila Tina Trisha Yeasmin Zainab Zakia
+		}
+		
+		male_patronym = ""
+		prefix = yes
+		
+		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 25
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		modifier = default_culture_modifier
+	}
+}

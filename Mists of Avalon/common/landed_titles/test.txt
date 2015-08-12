@@ -1,0 +1,29 @@
+k_southengland = {
+		color={ 177 60 100 }
+		color2={ 255 255 23 }
+		
+		capital = 1
+		
+		culture = south_english
+		
+	d_hampshire = {
+			color={ 174 23 122 }
+			color2={ 255 255 20 }
+			
+			capital = 1
+			
+		c_isleofwight = {
+				color={ 176 25 124 }
+				color2={ 255 255 20 }
+				
+				b_newport = {				
+				}
+				b_ryde = {
+				}
+				b_cowes = {
+				}
+				b_sandtown = {
+				}
+		}
+	}
+}
