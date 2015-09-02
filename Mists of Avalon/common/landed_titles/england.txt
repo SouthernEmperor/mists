@@ -1,0 +1,99 @@
+e_england = {
+	color={ 202 26 26 }
+	color2={ 255 255 255 }
+
+	k_southeast = {
+		color={ 177 60 100 }
+		color2={ 255 255 23 }
+			
+		culture = south_english
+			
+		d_hampshire = {
+				color={ 174 23 122 }
+				color2={ 255 255 20 }
+				
+				capital = 41
+				
+			c_isleofwight = {
+				color={ 176 25 124 }
+				color2={ 255 255 20 }
+					
+				b_newport = {				
+				}
+				b_ryde = {
+				}
+				b_cowes = {
+				}
+				b_sandtown = {
+				}
+			}
+		}
+	}
+	
+	k_southwest = {
+		color={ 181 133 68 }
+		color2={ 255 255 255 }
+		
+		d_cornwall = {
+			color={ 60 20 20 }
+			color2={ 255 255 255 }
+			
+			capital = 44 #Truro
+			
+			culture = cornish
+		
+			c_scilly = {
+				color={ 100 20 20 }
+				color2={ 255 255 255 }
+				
+				holy_site = scillonian
+				
+				b_hugh_town = {
+				}
+				b_st_marys = {
+				}
+				b_tresco = {
+				}
+			}
+			
+			c_penwith = {
+				color={ 90 20 20 }
+				color2={ 255 255 255 }
+				
+				b_camborne = {
+				}
+				b_st_ives = {
+				}
+				b_redruth = {
+				}
+			}
+			
+			c_carrick = {
+				color={ 80 20 20 }
+				color2={ 255 255 255 }
+				
+				b_truro = {
+				}
+				b_st_austell = {
+				}
+				b_falmouth = {
+				}
+				b_newquay = {
+				}
+			}
+			
+			c_caradon = {
+				color={ 70 20 20 }
+				color2={ 255 255 255 }
+				
+				b_bodmin = {
+				}
+				b_bude = {
+				}
+				b_saltash = {
+				}
+			}
+		}
+
+	}
+}

@@ -1,0 +1,910 @@
+brythonic = {
+	graphical_cultures = { westerngfx }
+
+	welsh = {	
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.3 0.8 0.6 }
+		
+		male_names = {
+			Aberthol Adda Addolgar Adwr	Aedd Afal Alawn	Albanwr Alwyn Amathaon Amerawdwr Amhar Amlawdd Amren Amynedd Anarawd Andras Anfri Angawdd
+			Anghrist Angor Anwas Anwell Anwir Anwyll Anynnawg Anyon	Ardwyad	Arian Arthwr Arvel Avaon Awstin Baeddan Banys Barris Beda Bedwyr Bedyw "Beli Mawr"
+			Bendigeidfran Berth	Berwyn Bevan Blathaon Bleidd Bowen Brac Bradwen	Bradwr Braen Bran Brathach Brian Broderick Brynn Brys Cadarn Cadawg Caddoc Cade
+			Cadell Cadellin	Caden Cadman Cadmon	Cadwallen Cadwgawn Cadwr Cadwy Cadyryeith Caerau Cai Cain Calcas Camedyr Cant Caradawg Caradoc Carey Carne Casnar Cass
+			Cassian	Cassidy	Casswallawn	Caswallon Cawrdav Cedric Ceithin Clud Clust	Cnychwr
+			Coch Coed Conway Conyn Craddock	Cradoe Crist Cubert	Culhwch	Culvanawd Custenhin
+			Cymry Cynbal Cystennin Dafydd Dai Dalldav Daned	Daryn Davies Davis Davyn Delwin
+			Delwyn Deverell	Dewey Dewi Dewitt Digon	Dilan Dillus Dirrnyg Donne Dover Drem
+			Dremidydd Drew Druce Drudwas Druson	Drych Drystan Dryw Drywsone	Duach Dyvynarth
+			Dyvyr Dywel	Earwin Earwine Edern Edmyg Eiddoel Eiladar Einian Elphin Emhyr Emlyn
+			Emrys Erbin	Ergyryad Eriyn Ermid Erwyn Eryi	Eudav Eus Evan Evrawg Fane Fercos Fferyll
+			Fflergant Fflewdwr Ffodor Ffowc	Floyd Fnam Fychan Fyrsil Gaius Garanhon	Garanwyn Gareth
+			Garnoc Garwyli Gavin Geraint Gilbert Gilvaethwy	Gleis Glenn	Glew Glinyeu Gobrwy	Goreu
+			Gormant	Gorsedd	Govannon Gower Granwen Greid Griff	Griffen	Grigor Gruddyeu	Gruffen	Gruffin	Gruffudd
+			Gryphon	Gusg Gwalchmei Gwalhaved Gwallawg Gwallter Gwarthegydd Gwawl Gwayne Gweir Gwenwynwyn Gwern	
+			Gwernach Gwevyl	Gwilenhin Gwilym Gwitart Gwrddywal Gwres Gwyddawg Gwydion Gwydre Gwydyon
+			Gwyngad	Gwynn Gwyr	Gwystyl	Gwythyr	Hael Heilyn Howell Hu Huabwy Huarwar Hueil Huw Hydd
+			Iago Ianto Iau Iddawg Iddig	Ioan Iorwerth Iustig Iwan Jestin Kai Keith Kelli Kelyn Kendric
+			Kent Kenyon	Kevyn Kian Kilydd Kim Kyledyr Kynan	Kynedyr	Kynlas Kynon Kynwal	Kywrkh Lewellyn	
+			Llacheu	Llara Llassar Llawr	Llevelys Llewellyn Llewelyn	Lloyd Llundein Llwybyr Llyn	Llyr Llyweilun	
+			Luc	Lug	Mabon Mabsant Macsen Madoc Mael	Maelgwyn Maelwys Mallolwch Manawydan March Mathias Mawrth
+			Medyr Meilyg Menw Mercher Meredith Meredydd Merlyn Mervyn Mihangel Mil Moesen Morcan Morcar	Mordwywr
+			Moren Morgan Morthwyl Morvran Myrddin Myrick Naw Neb Neifion Nerthach Neued Newlin	Nissyen Nynnyaw	Odgar
+			Ofydd Ol Olwydd	Ondyaw Oswallt Owain Padrig	Pany Pedr Peissawg Penvro Peredur Perry	Plys Powell	Pryderi
+			Prydwen	Puw	Pwyll Pyrs Reece Renfrew Rheged	Rhett Rhisiart Rhun	Rhuvawn	Rhyawdd	Rhychdir Rhys Romney
+			Rumenea	Ryn	Sadwm Saer Saith Selyf Siarl Siawn Siencyn Sinnoch Sion	Steffon	Sugyn Sulyen Syvwkh Tadd
+			Taffy Taliesin Taren Teithi	Teregud	Tewdwr Timotheus Tomos Trahaym Trahern Tramaine	Travion	Tremain
+			Trent Trevan Trevelyan Trevor Tringad Tristram Tristyn Trynt Tudor Twm Twrgadarn Tywysog Uchdryd Vaddon
+			Vaughan Vontell	Vychan Wadu	Waljan Winn	Wmffre Wren Yale Ysberin
+		}
+		
+		female_names = {
+			Addfwyn	Aderyn Adlais Adwen	Aelwen Aerfen Aeron	Afryl Alaw Aldyth Alwen	Alys 
+			Amranwen Aneira	Anest Angharad Anna	Anwen Annwr	Annwyl Arddun Arianell Arianrhod
+			Arianwen Arwen Aurddolen Auron Awela Awena Banwen Beca Berwen Bethan Betrys	Blodeuedd
+			Blodwedd Blodwen Branwen Brengwain Briallen	Brisen Bronmai Bronwen Brythonwen Buddug
+			Cadi Cain Calan	Canaid Caron Caronwen Carwen Caryl Carys Catrin	Ceindeg	Ceindrych
+			Ceinfryn Ceinwen Ceirios Ceri Ceridwen Cerys Collwen Creuddylad	Crisiant Crystyn
+			Cyffin Daron Deilwen Delun Delwen Delyn	Delyth Deris Derwena Deryn Deryth Dilwen
+			Dilys Drudwen Drysi	Dwyfor Dwynwen Dwyryd Dwysan Dyddanwy Dyddgu Dyfi Ebrill Edwy
+			Efa	Eigra Eilir	Eilonwy	Eilwen Eira	Eirian Eirianwen Eirianedd Eiriol Eirlys Eirwen
+			Eirys Elan Elain Elen Elenid Eleri Elinor Elisabeth	Elli Elliw Eluned Enfys Enid Eos
+			Erin Eryl Esyllt Ethni Eurfron Euron Eurddolyn Eurwen Ewig Faleiry Fanw	Ffion Fflur
+			Ffraid Ffreuer Fioled Gaenor Generys Glenda	Glenys Glesni Goleubryd	Goleudydd Grug
+			Gwawr Gwawrddydd Gwawrwen Gwenda Gwenddydd Gwendolen Gwener	Gwenfair Gwenfor Gwenfrewi
+			Gwenfron Gwenhwyfar	Gwenith Gwenlyn Gwennan	Gwennant Gwenol	Gwenydd	Gwenynan Gwerful
+			Gwernen	Gwernfyl Gwlithen Gwyddelan	Gwyddfid Gwladys Gwylan	Gwylfai	Gwyneth	Gwynonwen
+			Hafgan Hafren Hafwen Heddwen Hedydd	Heini Heledd Heulwen Heulyn	Hydref Hywela Iarlles
+			Idanwen	Ifanna Ifanwy Ilar Iona	Ionor Iorwen Iseult	Ithela Leri	Lili Lilwen	Liwsi Lleucu
+			Llian Llinos Llio Lluan	Lodes Lowri	Luned Lyneth Lynfa Lynwen Mabli	Madlen Maelona Maelorwen
+			Mai	Mair Mallt Manon Marged	Medeni Medi	Medwen Mefin Megan Meinwen Meirionwen Melangell
+			Meleri Meudwen Modron Modwen Moelwen Mold Mona Morforwyn Morfudd Morwen	Mwyndeg	Mwynen
+			Myfanwy Nans Nant Nefyn	Nerys Nest Nia Non Olwen Owena Perl	Rebeca Rhagnell	Rhedyn Rhiain
+			Rhiangar Rhiannon Rhianwen Rhianydd	Rhondda	Rhonwen	Rhosan Rhoslyn Rhunedd Rosentyl	Rowena
+			Sara Seirial Seirian Seren Siân	Sidan Sioned Siriol	Siwan Siwsan Sulian	Sulwen Surwen
+			Tafwys Tangwen Tangwystl Tanwen	Taryn Tegan	Tegeirian Tegfedd Tegwedd Tegwen Tegyd Teiddwen
+			Teifi Telaid Teleri	Telyn Tesni	Tirion Tonwen Tudful Undeg Wena	Wenhaf Ynyra
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		male_patronym = "ap "
+		female_patronym = "ferch "
+		prefix = yes
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+	}
+	
+	cornish = {
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.3 0.5 0.4 }
+	
+		male_names = {
+			Arranz Arthur Arthyen Austell Benesek Bideven Bithek Blyth Branwalather	Brengy Breoc Buthek Cadan Cador Carantoc
+			Carrow Casvelyn	Caswyn Christopher Clesek Colan	Conan Corentyn Costentyn Cuilliok Daveth Denzel Donyarth
+			Elowen Gawen Gelvinak Gerens Glastenen Glewyas Golvan Gorlas Gorneves Goron	Gorthelyk Gourgy Gwynek	Hicca Jacca	Jago
+			Jammes Jory	Jowan Kea Kerezik Kevern Kitto Madern Madron Margh Marrek Masek	Mawgan Meryasek Meryn Milyan Myghal	Nadelek
+			Neythen	Nicca Padern Pascow	Pawly Peder	Pencast	Petrock	Piran Rewan	Richard	Rumon Ryol Seleven Silyen Sithny Talan Talek
+			Trevedic Tristan Uther Wella Withell Wyllow	Zethar
+		}
+		
+		female_names = {
+			Ailla Andras Banallan Berlewen Bersaba Beryan Breaca Bryluen Chesten Columba Conwenna Cordelia Cryda Delen Derowen Derwa
+			Dywana Elestren	Elowen Endelyon	Esyld Gwenifer Gwennol Jana	Jenifer	Jenifry	Jenna Jowanet Kayna Kelyn Kensa	Kerenza	Kerra
+			Lowenek	Mabyn Manacca Mariot Marya Melwyn Melyonen Melyor Morgelyn Morvoren	Morwenna Morwennol Nessa Newlyna Nonna Rozen
+			Rozenwyn Senara	Sevi Talwyn	Tamara Tamon Tamsyn	Teca Tressa	Wilmot Ygerna	
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "mab "
+		female_patronym = "verch "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+	}
+	
+	manx = {
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.4 0.6 0.1 }
+		
+		male_names = {
+			Allen Arteure Abban	Adaue Aedan	Aland Albyn	Aldyn Aleyn	Alister	Allowe Altar Andreays Anghus Art Asketil Aslac Asmund Aspallan
+			Austeyn	Baran Bertrem Biorn	Brendan	Bretan Bretnach	Cairbe Cane	Carbry Carmac Caroly Cashin	Cian Colby Colla Colum Colyn Conal
+			Connaghyn Conylt Coobragh Cooil	Cormac Cristal Cristen Crosse Custal Dermot	Diarmid	Dilno Dofnald Dogan	Dolen Dolyn	Donachan
+			Donal Doncan Donn Dooil	Doolish	Douglas	Dufgal Dugal Eaghan	Eamon Ean Ector	Edard Eoin Erling Ewan Faragher	Fayrhare Felys
+			Fergus Fiac	Filip Finbar Finlo Fintan Flan Flaxney Fogal Franc Fynlo Fynn Galfrid Gavan	Gawain Geffry German Germot	Gibbon
+			Gilander Gilaspic Gilbert Gilbrid Gilcalm Gilno	Gilrea Godred Gorman Gorry Hamish Hane Harold Herman Hugh Hugo Illiam Inry
+			Ivanhoe	Ivar Jamys Jocelin Jole	Keird Kerron Kieran	Laurys Lear	Liag Lochlin Lolan Lonan Lucas Magnus Mannanan Manus Marcus
+			Martyn Maurice Mayl	Miall Mian Michel Mold Moleyn Monier Moris Murchad Nel Nellyn Nevyn	Niall Nichol Nigel Odairr Okerfair Olaf
+			Olyn Orry Oshin	Ossian Ottar Padeen	Paric Parlance Paton Payl Peddyr Perik Quistaghyn Quisten Ramsey Reginald Reynold Rigard Robart
+			Robyn Roddy	Ronan Rory Rumund Sandulf Sharry Sigurd	Sigvald	Silvester Stiurt Stoill	Teige Thomase Thomlyn Thorfin Thorgil Thorkell
+			Thorryn	Thorulf	Urmen Waltar Ysaig Yvar	Yveno Yvon Yvor	Dursley
+		}
+		
+		female_names = {
+			Aimil Ainelag Alistreeney Amy Ann Bahee	Barbrey	Bessee Blaanid Blaunsh Breeshey	Catreeney Clare	Cooney Creeney Creesteeney Dee Ealisaid
+			Ealish Eaylee Edeeney Edyt Eileen Eunys	Florrie	Frangaid Geraldine Grainney	Jaime Jinn Jinnag Jinnee Joan Jonee	Kate Katleen Katreeney
+			Kial Kickle	Kirree Lisaid Liss Margaid Marshalie Marthey Mayree	Mel	Moirragh Moirral Moirrey Mollie	Morag Nanse	Onnee Paaie	Rayner Robin
+			Sallee Samantha	Scarleod Sharlott Sheelagh Sheeley Shoryseen Sorghey Tressa	Voirrey	Ysbel Zoe
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		
+		modifier = default_culture_modifier
+		
+	}
+}
+
+english = {
+
+	graphical_cultures = { westerngfx }
+	
+	northumbrian = {
+	
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.5 0.1 0.1 }
+	
+		male_names = {
+			Aaron Adam Aidan Alexander Alfie Angus Archer Archie Arlo Arthur Asher Ashton Austin Beau Benjamin Blake Braxton Caleb
+			Cameron	Carter Charlie Cohen Connor	Cooper Daniel David	Dylan Edward Eli Ethan Ezra	Felix Finn Fletcher	Flynn George
+			Grayson	Harley Harrison	Harry Henry	Hudson Hugo	Hunter Isaac Jack Jackson Jacob Jake James Jasper Jaxon	Jayden John
+			Jordan Joseph Joshua Lachlan Leo Levi Lewis	Liam Lincoln Logan Louis Luca Lucas	Luke Marcus	Mason Matthew Max Michael
+			Nathan Nixon Noah Oliver Oscar Patrick Phoenix Quinn Riley Roman Ryan Ryder	Samuel Sebastian Theo Thomas Toby Tyler	Vincent
+			William	Xavier Zachary
+		}
+	
+		female_names = {
+			Aaliyah	Abigail	Addison	Alexandra Alexis Alice Amber Amelia Anna Annabelle Aria	Ariana Aurora Ava Ayla Bella Brooke	Brooklyn
+			Caitlin	Charlotte Chloe	Eden Elizabeth Ellie Emily Emma	Eva	Evelyn Evie Florence Freya Georgia Gracie Hannah Harper Harriet Hayley
+			Hazel Holly	Imogen Indie Isabel	Isla Ivy Jasmine Jessica Kate Kayla	Keira Layla	Leah Lily Lucy Mackenzie Maddison Madeleine	Madison
+			Maia Maria Matilda Mia Mila	Millie Molly Naomi Natalie Nevaeh Nina Olive Olivia Paige Peyton Phoebe	Piper Pippa	Poppy Rose Ruby	Sadie
+			Samantha Sarah Savannah	Scarlett Sienna	Sophie Stella Summer Thea Violet Willow	Zara Zoe
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier
+	}
+	
+	mercian = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.8 0.3 0.3 }
+		
+		male_names = {
+			Aaron Abbott Abel Abner	Abraham	Adam Adlai Amah	Ami	Amok Amos Ariel	Aryeh Asa Asher	Aviram Avishalom Aviv Avram	Aya	Azarel Barabas Barak
+			Barnaby	Baron Bartholomew Baruch Benaiah Benjamin Benson Beryl Boaz	Cain Caleb Carmi Chagai	Chaika Chanoch Chayim Dagan	Daley Daniel Dathan
+			David Dekel	Delayahu Doran Dori	Dov	Eban Ebenezer Eden Edom	Efraim Eilam Eiran Elam	Elazar Eli Eliakim Elias Elihu Elijah Eliot	Elisha Eliyyahu
+			Elkan Elnatan Emmanuel Enos	Ephraim	Eran Ethan Ethel Ezekiel Ezra Falk Gabai Gabriel Gad Gal Gamaliel Gavriel Gedalya Gemarya Gera Gersham Gidan
+			Gideon Gilad Gilead	Gomer Habakkuk Hadar Haggai	Haim Hanan Hayyim Hazael Hebel Heber Hebron	Hed	Hevel Hillel Hirah Hosea Hyam Hyram	Ichabod	Idan
+			Ilan Immanuel Ira Isaac	Isaiah Ishmerai	Israel Ithai Ithamar Ithiel	Itzak Jacob	James Japheth Jared	Jaron Jason	Jedidiah Jeremiah Jesse	Joakim
+			Job	Joel Johanan John Jonah	Jonas Jonathan Jordan Joseph Joshua	Josiah Jude	Kaniel Kehat Kohath	Korach Laban Label Lamech Lazarus Lehi Lemuel
+			Leshem Levi	Liron Lochesh Lot Malachi Matai	Matan Mattaniah	Matthew	Meir Melech	Menahem	Menashe	Merari Meshech Methuselah Meyer	Michael	Moab
+			Mordecai Moses Moshe Nadav Nahum Naphtali Nathan Nathaniel Nehemiah	Nir	Nirel Noach	Noadiah	Noah Obadiah Obed Ofer Omar	Ophir Oren Ori Osaze
+			Osher Oz Phineas Qayin Qenan Raanan	Raguel Ranen Raphael Ravid Remiel Reuben Rishon	Ruben Sachiel Samson Samuel	Saul Seth Shachar Shai Shalom
+			Shay Shimon	Shir Shmuel	Shulamith Simcha Simon Sivan Solomon Tal Talmai	Talman Tamur Teman Thaddeus	Tivon Tobiah Tobias	Tuvya Tzvi Udeh	Udi	Uri
+			Uriah Uriel	Uzi	Vered Yaakov Yachin	Yadid Yadon	Yahveh Yair	Yakov Yalon	Yan	Yanis Yaniv	Yarden Yarin Yaron Yechezkel Yehiel	Yehosef	Yehoshua
+			Yehudah	Yered Yeshaya Yitzhak Yoav Yochanan	Yoel Yonah Yonatan Yoram Yosef Yuval Zabulon Zacchaeus Zachariah Zakai Zalmon Zane Zared Zebadiah
+			Zebulon	Zedekiah Zeev Zephan Zephaniah Zevach Zimri	Zion Zohar
+		}
+		
+		female_names = {
+			Abigail	Abira Abrianna Acimah Ada Adamina Addison Adelaide Aderes Adie Adina Adine Adva	Ahava Ailsa	Alexandra Alexis Alice Aliyah Aliza	Alona Amira	Amy
+			Anah Anne Arashel Arielle Asenka Astera	Atara Atarah Avia Avigail Aviva	Avra Aya Ayala Ayelet Azalia Bara Bashe	Basya Bathseva Batsheba	Batyah Becky
+			Bess Bethany Bethia	Beulah Bilhah Bosmat Brina Carmel Chanah Chani Chaniya Chasida Chava Chaya Cheftzi-ba Dagania Dalia	Daniela	Dara Dassah	Davan Daya
+			Deanna Deborah Deganiah	Deganit	Delilah	Devora Dinah Dodie Dor Dorit Edna Efrosini Eleora Eliane Elisheba Elizabeth	Ellen Emanuela Endora Erzsebet
+			Evelina	Fifine Freya Gal Gali Galia	Galit Gana Ghila Gilah Gomer Hada Hadar	Hadas Hadassah Hali	Hania Hanne	Hava Heba Hedia	Hedva Hefziba Hepsie
+			Hepzibah Hosanna Hulda Ideh	Ilanit Irit	Ivana Jacqueline Jada Jaen Jamee Janna Jaron Jensine Jerusha Jezebel Joan Jobey	Joelle Joelliane Johanna Jora
+			Josephine Judy Kadisha Kalanit Kazia Keren Keren-happuch Keshet	Keturah	Ketzia	Kizzie	Lailie	Ledah Lemuela Lexine Liat Lior Liorit Lisa Lisabet
+			Lisette	Livnat Madeleine Magda Magena Mahala Mahalath Makeda Malina	Mangena	Marganita Maria	Mariasha Maridel Marilyn Marni Marnina Mary	Mathea Maytal
+			Meirit Menuha Michaela Michal Minna	Miryam Moriya Naamah Nan Nancy Nanna Nataniella	Nava Nediva	Neta Nina Nissa	Nitzana	Nogah Nurit	Odelia Ofra	Oprah
+			Orit Orly Penina Phoebe	Raizel Raphaella Rebecca Rena Reut Ritzpa Rivka	Roma Roni Rut Sabra	Saloma Samantha	Samara Samuela Sapphire	Sarai Sarit	Selah
+			Seraphine Shachar Shanna Sharon	Shawn Sheba	Shelah Shir	Shiri Shoshana Sigal Simona	Smadar Stephanie Sydelle Tahlia	Talia Tammy	Tema Thadine Thomasina
+			Thyrza Tikva Tivona	Tovah Tovia	Tzivya Tzufit Udia Uma Uza Varda Vered Victoria	Vidette	Yachna Yadira Yaffa	Yarden Yarkona Yaron Ydel Yemima Yocheved
+			Yonit Yutke	Zahar Zahavah Zambda Zara Zehava Zelpha	Zemirah	Zerlinda Zia Zillah	Zimra Ziona	Zisel Ziv Zivit	Zuriel Zoe
+		}
+		
+		modifier = default_culture_modifier
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	
+	}
+	
+	south_english = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.8 0.8 0.2 }
+		
+		male_names = {
+			Aaron Adam Aidan Alexander Alfie Andrew	Archie Arthur Austin Benjamin Blake	Caleb Callum Cameron Charlie Christopher Connor	Daniel David Dexter	Dylan
+			Edward Eli Elijah Elliot Ethan Evan	Felix Finley Finn Freddie Gabriel George Harley	Harrison Harry Harvey Henry	Isaac Jack Jackson Jacob Jake James	Jamie
+			Jasper Jayden Joel Joseph Joshua Jude Kai Kayden Leo Leon Lewis	Liam Logan Louie Louis Luca	Lucas Luke Mason Matthew Max Michael Muhammad Nathaniel	Noah
+			Oliver Ollie Oscar Owen	Patrick	Pip	Reuben Rhys	Riley Robert Rory Ryan Samuel Sebastian	Seth Stanley Theo Thomas Tobias	Tyler William Zachary
+		}
+		
+		female_names = {
+			Abigail	Alexandra Alice	Alyssa Amber Amelie	Amy	Angel Anna Annabelle Ava Bella Bethany Caitlin Charlotte Chloe Daisy Danielle Eden Eleanor Elisabeth Eliza Ella
+			Eloise Elsie Emilia	Emma Erin Esme Eva Eve Evelyn Evie Faith Florence Freya Gabriella Georgia Gracie Hannah Harriet Holly Imogen Iris Isabella Isla Jasmine
+			Jessica	Katie Kayla Keira Kitty Lacey Lauren Layla Leah Lexie Libby Lily Lola Lottie Lucy Madison Maisie Maria Martha Matilda Maya Megan Mia Millie Molly
+			Niamh Nicole Nina Olivia Orla Paige	Phoebe Poppy Rebecca Rose Ruby Sarah Scarlett Seren	Sienna Skye	Sophia Summer Willow Zara Zoe
+		}
+		
+		modifier = default_culture_modifier
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+	
+	north_english = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Aaron Adair	Adam Aiden Ailbeart	Alastair Alban Alexander Alfie Alpin Andrew	Angus Archibald	Archie Arthur Austin Baldwin Benjamin
+			Blake Boyd Bryce Caleb Callum Cameron Campbell Charlie Christopher Cinead Connor Craig Daniel David	Dexter Diarmid Donald Donnan
+			Dougal Douglas Drummond	Duncan Dylan Eachann Edward	Eli	Elijah Elliot Erskine Ethan	Evan Ewan Felix	Fergus Fingal Finlay Finn
+			Fraser Freddie Gabriel Gavin George	Gordon Graham Grant	Gregor Hamilton	Hamish Harley Harrison Harry Harvey	Henry Hew Iain
+			Irvine Isaac Jack Jackson Jacob James Jamie Jasper Jayden Joel Joseph Joshua Jude Kai Kayden Kennedy Lachlan Leo Leon Leslie
+			Lewis Liam Logan Louie Louis Luca Lucas	Luke Malcolm Mason Matthew Max Michael Muhammad	Muir Mungo Nathaniel Noah Oliver Oscar Owen
+			Patrick	Pip	Raibert	Reuben Rhys	Riley Robert Rory Ross Ryan	Sam	Samuel Sebastian Seth Stanley Stuart Tamhas	Theo Thomas	Tobias Tyler William Zachary
+		}
+		
+		female_names = {
+			Abigail	Adamina	Agnes Aileen Ailith	Ailsa Ainslie Alana	Alexandra Alice	Alison Alyssa Amber	Amelia Angel Anne Annabelle	Annis Arabel Ava
+			Barbara	Bella Bethany Blair	Bridget	Cairstine Caitlin Catriona Charlotte Chloe Daisy Davinia Deoiridh Donalda Eden Eleanor Elisabeth Eloise	Elsie
+			Emilia Emma	Erin Esme Eva Eve Evelyn Evie Faith	Fenella	Fiona Flora	Florence Freya Gabriella Gavina	Georgia	Grace Greer	Hannah Harriet Heather Hilda
+			Holly Imogen Innis Iris	Isabelle Isla Jamesina Jasmine Jean	Jessica	Kate Kayla Keira Kirstine Kitty	Lacey Lachina Lauren Layla Leah	Lexie Libby	Lily
+			Lola Lottie	Lucy Lyall Madison Mairi Maisie	Margaret Maria Martha Matilda Maya Megan Mia Millie	Molly Morag	Murdina	Niamh Nicole Nina Olivia Orla
+			Paige Phoebe Poppy Rebecca Rhona Rosie Ruby	Sarah Scarlett Seren Sienna	Skye Sophie Sorcha Summer Thomasina	Una	Willow Zara	Zoe
+		}
+		
+		modifier = default_culture_modifier
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+
+}
+
+scottish = {
+
+	graphical_cultures = { westerngfx }
+	
+	scots = {
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.3 0.7 0.7 }
+		
+		male_names = {
+			Aaron Adam Aidan Alex Alfie Andrew Angus Archie Arran Ben Blair	Blake Brodie Caleb Callum Calvin Cameron Charlie Christopher Cody Cole Connor Cooper
+			Daniel David Declan Dylan Ethan	Ewan Finlay	Finn Fraser	George Harris Harrison Harry Isaac Jack	Jake James Jamie Jay Jayden	John Joseph	Josh Jude
+			Kai	Kian Kyle Leo Leon Lewis Liam Logan	Lucas Luke Mark	Mason Matthew Max Michael Muhammad Murray Nathan Noah Ollie	Oscar Owen Rhys	Riley Robbie
+			Rory Ross Ruaridh Ryan Sam Scott Sean Sebastian	Shay Thomas	Tyler William Zac
+		}
+		
+		female_names = {
+			Abbie Alexandra	Alexis Alice Alyssa	Amber Amy Anna Ava Bella Beth Brooke Caitlin Carly Charlotte Chloe Daisy Darcy Eilidh Elise Ellie
+			Emily Emma Erin	Eva	Eve	Evie Faith Freya Georgia Gracie	Hannah Hollie Imogen Iona Isabella Isla	Jessica	Julia Kara Katie Kayla Keira Lacey
+			Lara Lauren	Layla Leah Lexie Lilly Lois	Lola Lucie Madison Maisie Maria	Maya Megan Mia Millie Mirren Mollie	Mya	Niamh Nicole Olivia	Orla
+			Paige Poppy	Rachel Rebecca Robyn Rosie Ruby	Sarah Scarlett Sienna Skye Sofia Summer	Taylor Willow Zara Zoe
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+		tribal_name = "TRIBAL_NAME_PROV_CLAN"
+	}
+	
+	clydesman = {
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.2 0.6 0.6 }
+		
+		male_names = {
+			Aaron Adam Aidan Alex Alfie Andrew Angus Archie Arran Ben Blair	Blake Brodie Caleb Callum Calvin Cameron Charlie Christopher Cody Cole Connor Cooper
+			Daniel David Declan Dylan Ethan	Ewan Finlay	Finn Fraser	George Harris Harrison Harry Isaac Jack	Jake James Jamie Jay Jayden	John Joseph	Josh Jude
+			Kai	Kian Kyle Leo Leon Lewis Liam Logan	Lucas Luke Mark	Mason Matthew Max Michael Muhammad Murray Nathan Noah Ollie	Oscar Owen Rhys	Riley Robbie
+			Rory Ross Ruaridh Ryan Sam Scott Sean Sebastian	Shay Thomas	Tyler William Zac
+		}
+		
+		female_names = {
+			Abbie Alexandra	Alexis Alice Alyssa	Amber Amy Anna Ava Bella Beth Brooke Caitlin Carly Charlotte Chloe Daisy Darcy Eilidh Elise Ellie
+			Emily Emma Erin	Eva	Eve	Evie Faith Freya Georgia Gracie	Hannah Hollie Imogen Iona Isabella Isla	Jessica	Julia Kara Katie Kayla Keira Lacey
+			Lara Lauren	Layla Leah Lexie Lilly Lois	Lola Lucie Madison Maisie Maria	Maya Megan Mia Millie Mirren Mollie	Mya	Niamh Nicole Olivia	Orla
+			Paige Poppy	Rachel Rebecca Robyn Rosie Ruby	Sarah Scarlett Sienna Skye Sofia Summer	Taylor Willow Zara Zoe
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+		tribal_name = "TRIBAL_NAME_PROV_CLAN"
+	}
+	
+	#islander = {
+	#	graphical_cultures = { celticgfx }
+	#	color = { 1.0 0.3 0.3 }
+	#	
+	#	male_names = {
+	#		Aether Aidden
+	#	}
+	#	female_names = {
+	#		Adelle Agate
+	#	}
+	#	
+	#	dukes_called_kings = yes
+	#	
+	#	from_dynasty_prefix = "de "
+	#	prefix = yes
+	#
+	#	modifier = default_culture_modifier
+	#	pat_grf_name_chance = 30
+	#	mat_grf_name_chance = 15
+	#	father_name_chance = 5
+	#	
+	#	pat_grm_name_chance = 30
+	#	mat_grm_name_chance = 15
+	#	mother_name_chance = 10
+	#	
+	#	tribal_name = "TRIBAL_NAME_PROV_CLAN"
+	#	
+	#	modifier = default_culture_modifier
+	#	
+	#	seafarer = yes
+	#	
+	}
+	
+	orkade = {
+	
+		graphical_cultures = { norsegfx }
+		
+		color = { 0.2 0.45 0.65 }
+		
+		male_names = {
+			Anund_Anund Alv_Alf Arne_Arne Arnfinn Arnkjell Arnmod Arnvid Aslak Audun Balder_Balder Bård Bjørn_Beorn Eigil_Egil Eilif Einar_Einar Eirik_Erik Erlend Erling Eystein_Eysteinn Finn Frej_Frej
+			Grim_Grim Gudbrand Gudleik Gudmund_Gudmund Gudrød_Gudröd Gunnar_Gunnar Guttorm_Gorm Haldor Halfdan Halkjell Harald_Harold Helge_Helge Håkon_Hakon Håvard Inge_Ingolf Ivar_Ivar Jon_John Kåre Kolbein Lodin
+			Magnus_Magnus Odd_Odd Ogmund Olav_Olaf Orm_Orm Ossor Ottar_Ottar Pål_Paul Ragnar_Ragnar Ragnvald_Ragnvald Rolf_Rolf Sigurd_Sigurd Skjalg Skofte Skule_Skule Svein_Sven Sverre Sämund_Sämund Torbjørn_Torbjörn Tord_Tord Tore 
+			Torbrand_Torbrand Torfinn_Torfinn Torgeir_Torgeir Torgil_Torkel
+			Tormod Torolf_Thorolf Torstein_Torsten Trond Tryggve Ulv_Ulf Vigleik Åle Åmund Ølver Øystein_Eysteinn 
+		}
+		female_names = {
+			Anna_Anna Astrid_Astrid Brigida_Brigid Cecilia_Cecilia Eldrid Freja_Freja Gjertrud_Gertrude Gudrid Gudrun_Gudrun Gunnhild_Gunhild Gyda_Gytha Gyrid Haldora Homlaug Ingebjørg_Ingeborg Ingjerd_Ingegerd Ingrid_Ingrid Jorunn
+			Karin_Catherine Kristina_Christina Margrete_Margaret Maria_Maria Martha_Martha Ragna Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rannveig Sigrid_Sigrid Snøfrid Sunniva Svanhild_Svanhild Thora_Thora Thorborg Thordis_Thordis Åse_Åsa Åshild Åsta_Asta
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "av "
+		
+		male_patronym = "sson"
+		female_patronym = "sdatter"
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+		
+		seafarer = yes
+	
+	}
+
+	wizarding = {
+		
+		graphical_cultures = { celticgfx }
+		
+		color = { 1.0 0.5 0.0 }
+		
+		male_names = {
+			Aberforth Alastor Albus	Alecto Amos Amycus Anthony Antioch Antonin Arabella Aragog Arcturus Argus Arthur Augustus Bane Bartimaeus
+			Beedle Bill Blaise Cadmus Cedric Charlie Cormac Cornelius Cuthbert Dean Dedalus Dirk Dobby Draco Dudley Elphias Ernie
+			Everard	Fang Fawkes	Fenrir Filius Firenze Frank	Fred Garrick Gellert George	Gilderoy Godric	Grawp Griphook Harry Horace	Ignotus
+			Igor James Justin Kingsley Kreacher	Lee	Lucius Magorian	Marcus Marvolo Michael Morfin Mundungus	Neville	Newt Nicholas Nigellus
+			Oliver Peeves Percy	Peter Phinneas Pigwidgeon Pius Quirinus	Rabastan Reginald Regulus Remus	Rodolphus Ronald Ronan Rubeus
+			Rufus Salazar Scabior Scorpio Seamus Sirius	Stan Sturgis Terry Theodore Thomas Trevor Vernon Victor Vincent Xenophilius Zacharias
+		}
+		
+		female_names = {
+			Alecto Alice Alicia Amelia Andromeda Angelina Ariana Augusta Bathilda Bathsheda	Bellatrix Charity Cho Daphne Dolores Dylis Emmeline
+			Enid Fleur Fridwulfa Gabrielle Ginevra Ginny Hannah	Hedwig Helena Helga	Hepzibah Hermione Hokey	Irma Jane Katie	Lavender Lily Luna
+			Marge Marietta Mary	Merope Millicent Minerva Molly Muriel Myrtle Nagini	Narcissa Norberta Norris Nymphadora	Padma Pansy	Parvati	Patrica
+			Penelope Petunia Pomona	Poppy Rita Rolanda Romilda Rowena "Sally Anne" Septima Susan Sybill	Tracey Wilhelmina Winky	
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 25
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+
+}
+
+irish = {
+	graphical_cultures = { westerngfx }
+	
+	mistfolk = {
+	
+		graphical_cultures = { mesoamericangfx celticgfx }
+		color = { 0.6 0.0 0.0 }
+		
+		male_names = {
+			Ague Amethyst "Annabel Lee" Arachne Ash Autumn Avarice Balor Belinda Belladonna
+			Branwen Bronwen Briar Chalice Chaos Chimera Chrysanthemum Circe Clove Crowe Delora
+			Daemon Desdemona Diti Dolores Draconia Draven Elsinore Esmerée Eulalie Eurydice Foxglove
+			Freya Funereal Gabriel Gehenna Golgotha Grendel Gryphon Grimoire Hades Hecate Hellebore
+			Hemlock Isolde Israfel Jack Jezabel Leila Lenore Lilith Lily Lolita Lovecraft Lucifer
+			Luna Malik Maleficent Mara Medusa Melancholia Melania Mercy Merula Mephistopheles
+			Midnight Moon Morte Narcissa Nephilim Nightshade Nimue Nin Nocturne November October
+			Oleander Ophelia Orchid Perdita Raven Sabrina Sage Salem Samhain Sanctity Shabriri Shade
+			Shadow Spike Sullen Thorne Titania Tristan Twilight Vespers Vladimir Willow Winter Wolfe
+		}
+		
+		female_names = {
+			Ague Amethyst "Annabel Lee" Arachne Ash Autumn Avarice Balor Belinda Belladonna
+			Branwen Bronwen Briar Chalice Chaos Chimera Chrysanthemum Circe Clove Crowe Delora
+			Daemon Desdemona Diti Dolores Draconia Draven Elsinore Esmerée Eulalie Eurydice Foxglove
+			Freya Funereal Gabriel Gehenna Golgotha Grendel Gryphon Grimoire Hades Hecate Hellebore
+			Hemlock Isolde Israfel Jack Jezabel Leila Lenore Lilith Lily Lolita Lovecraft Lucifer
+			Luna Malik Maleficent Mara Medusa Melancholia Melania Mercy Merula Mephistopheles
+			Midnight Moon Morte Narcissa Nephilim Nightshade Nimue Nin Nocturne November October
+			Oleander Ophelia Orchid Perdita Raven Sabrina Sage Salem Samhain Sanctity Shabriri Shade
+			Shadow Spike Sullen Thorne Titania Tristan Twilight Vespers Vladimir Willow Winter Wolfe
+		}
+		
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier	
+	}
+	
+}
+
+brownmen = {
+	graphical_cultures = { indiangfx muslimgfx }
+	
+	pakistani = {
+		graphical_cultures = { muslimgfx indiangfx }
+		secondary_event_pictures = bedouin_arabic
+		color = { 0.8 0.3 0.2 }
+		male_names = {
+			"Ash Amin" "Moeen Ali" Abdul Akhlaq Allama Altaf Amir
+			Anwar Asad Ashiq Azhar Babar Bilawal Ehsan Farrokh Fawad
+			Hamza Haris Hasnain Hassan Imtiaz Jamal Javed Junaid Karim
+			Malik Misbah Mojib Mukhtar Nazim Rahat Rahman Ravinder Raza Saad
+			Saddam Sadiq Saeed Sajjad Sami Saqlain Shahid Shan Shaoib Sharfraz
+			Sohaib Sohail Tahir	Tariq Umar Wahab Waqar Wasim Yaqub Yasir Younus
+			Zahir Zayn Zia Zulfikar
+		}
+		
+		female_names = {
+			Aditi Afifa Alayna Aliya Ameria	Anam Asmavia Asmi Azra Benazir
+			Bismah Darshana	Divya Fahmida Fazna Gulrukh	Gulshan	Hajra Ifrah
+			Jaswinder Javeria Kainat Kheezra Krishma Leah Lintah Mahnoor
+			Malala Malika Marina Mizha Nain	Nida Niya Noor Pratibha Qanita Rupinder
+			Saba Sadia Saima Saira Sajida Salma Sanaa Sara Sayeeda Shabnam
+			Shahnaz	Sidra Sonia	Sumaiya	Syeda Ujala	Ushna Vaneeza Yasmeen
+			Zainab Zainnah Zakia
+		}
+		
+		founder_named_dynasties = yes
+		
+		male_patronym = ""
+		prefix = yes
+		
+		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 25
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		modifier = default_culture_modifier
+	}
+	
+	hindustani = {
+		graphical_cultures = { indiangfx muslimgfx }
+		secondary_event_pictures = bengali
+		color = { 1.0 0.7 0.2 }
+		male_names = {
+			"Dev Anand" "Gabbar Singh" "Saif Ali" "Shah Rukh"
+			Abhilash Abhinav Abhishek Aditya Ajay Akshay Amitabh Amrish
+			Anil Anish Anupam Arjun Ashish Ashok Ashwin Charan Chatur Daler
+			Deepak Dharmendra Dilip Dwarak Fahran Gautam Govind Hrithik Jai
+			Jawaharlal Karan Manmohan Mohinder Myank Nagaraj Naveen Pranav
+			Raghav Rajesh Rakesh Ramesh Rancho Rishi Rohan Rohit Salman
+			Sanjay Sendhil Siddharth Sunil Suresh Tarun Uday Venkatesh
+			Vennu Vinod Yash Zayed
+		}
+		female_names = {
+			Aditi Aishwarya Anika Anisha Anjali Anu Anushka Anvi Basanti
+			Brinda Dhriti Diya Hema Himani Indira Isha Ishika Jaishree
+			Jaya Jayalalitha Jhansi Jhanvi Juhi Kajol Kalpana Kareena
+			Karisma Kashvi Katrina Kiran Kiran Kyra Madhuri Mahak
+			Malaika Medha Megana Namita Nargis Navya Nikita Nisha
+			Pia Pooja Pratibha Preity Priyanka Radha Rani Riya
+			Saanvi Sahana Shilpa Shobita Shreya Simran Tanvi Tina Vidya Zara
+		}
+		
+		male_patronym = ""
+		prefix = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 25
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		
+		modifier = default_culture_modifier
+	}
+	
+	sylheti = {
+		graphical_cultures = { indiangfx muslimgfx }
+		secondary_event_pictures = bengali
+		color = { 0.45 0.0 0.0 }
+		male_names = {
+			Abdul Ahmed	Ajmal Akash Altab Amdad	Anwar Arafat Arif Azam Dev	
+			Enamul Fakhruddin Faysal Hasan Imrul Iqbal Islam Jamal
+			Javed Jubair Kabir Kamrul Khaled Mashrafe Mominul Mushfiqur	
+			Nasir Nazrul Omar Parvez Rafique Ragib Rahman Rana Rasel	
+			Reza Rony Rubel	Saddam Sajid Sami Samir Sayeed Shafayat	
+			Shafiul Shahriar Shakib Shamsuddin Sohag Soumya Sumon Taijul Tamim	
+			Tapash Taskin Yunus Zahir Ziaur Zubayer
+		}
+		female_names = {
+			Afshan Amina Ayasha Bindu Chamely Chondona Chumki Dalia Disha Fargana
+			Farhana	Fatima  Hamida Hasina Jahanara Joynab Kanak Khaleda	
+			Kia	Luna Maliha	Manzila	Meghla Mili	Mina Misty Monica Naznin Nilima	
+			Nishad Panna Priyanti Rehana Rifatara Riya Roji Rowshan Rumana Rushanara
+			Sadia Salma	Sanjana	Sanjida	Sharmin	Shathira Shayla Shefali Shirina	Shium
+			Shukhtara Sitara Sohini Srabonti Tahin Tanzila Tina Trisha Yeasmin Zainab Zakia
+		}
+		
+		male_patronym = ""
+		prefix = yes
+		
+		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 25
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+		modifier = default_culture_modifier
+	}
+}
+
+blackmen = {
+	graphical_cultures = { africangfx muslimgfx }
+	
+	windrushite = {
+		graphical_cultures = { westafricangfx }
+		secondary_event_pictures = bedouin_arabic
+		color = { 0.45 0.45 0.2 }
+		male_names = {
+			Adam Adrian Andre Asher Calvin Chinedu Chinua Chiwetel Claude Clive
+			Colin Courttia Darren Delroy Desmond Djibril Edmond	Evan Ezeudu Femi
+			Hugh Ikemefuna Justin Kane Kingsley Kwame Kwesi Leo Liam Marcus Mickey
+			Nelson Nkem	Nwoye Obierika Okonkwo Olajide Olaudah Olawale Osita Ralphie
+			René Roy Simon Solomon Unoka Usain Wentworth Wilfred Yves
+		}
+		female_names = {
+			Abigail Alexandra Aminatta Amy Andrea Angela Ashley Chloe Claire Diane Doreen
+			Ekwefi Estelle Esther Ezinma Floella Florence Francine Freema Gugulethu	
+			Gwen Jade Jamelia Kadija Keisha Ladipo Leila Lennox	Lucy Marianne Marsha
+			Martha Merle Naomi Nyasa Olabisi Pamela	Ramatoulaye	Rose Sadie Sally Serena
+			Simone Taylor Temitope Thandiwe	Tish Valerie Yvonne Zoe
+		}
+		
+		founder_named_dynasties = yes
+		from_dynasty_prefix = "ka"
+
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 20
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 20
+		mother_name_chance = 30
+		
+		modifier = default_culture_modifier
+	}
+}
+
+chainaren_group = {
+
+	graphical_cultures = { westerngfx }
+	
+	chainaren = {
+		graphical_cultures = { mongolgfx westerngfx }
+		color = { 0.8 0.8 0.3 }
+		
+		male_names = {
+			Aidehua	Aili Aisake	Ali	Alisha Along Aolifu	Aomaer Aosika Ase Ben Bulaike Chali	Danni Dawei Dilan Feilipu Fuleidi Hali
+			Halisen	Hawei Hengli Jian Jieke	Kaleibu	Kangna Laili Leiou Lenei Lian Lougan Luka Maike	Makesi Maxiu Muhanmode Neisen Nuoa
+			Ouwen Qiaozhi Saibasiadian Shanmu Tuobi	Tuoma Tuoni	Weilian	Xiao Yadang	Yagebu Yalishanda Yaohan Yaoshuya Yibulaxin	Yifu
+			Yisang Yiwan Yuesefu Yuguo Zakali Zhanmusi
+		}
+		
+		female_names = {
+			Abigaier Aiersha Aifulin Ailisha Ailisi	Aima Aimei Aimili Aiwei	Anbo Anna Aoliweiya	Awa	Beitani	Daixi Dannier Feibei Foluolensi
+			Geleisi	Hanna Heli Jiexika Kaidi Kaila Kaoteni Kelaila Keluoai Laha	Leila Leiya	Libeika	Lili Lubi Luobin Luola Luosi Luxi Maidixun
+			Mali Masha Maya	Meier Mila Mili	Miya Moli Naaomi Popi Qiaozhiya	Shala Sijiali Sufeiya Weiduoliya Xialudi Yila Yilianna Yilin Yilishabei
+			Yisabeila Zhansimin
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+slavic_group = {
+	graphical_cultures = { easterngfx }
+
+}
+
+ianki_group = {
+	graphical_cultures = { westerngfx }
+	
+	ianki = {
+		graphical_cultures = { norsegfx }
+		color = { 0.25 0.5 0.75 }
+
+		male_names = {
+			Alehandro Allen Angelo Arnold Arnoldo Barry	Benny Bernardo Billy Bobby Brad
+			Bradford Bradley Brett Brian Bruce Carlos Chad Charlie Chester Chris Clarence
+			Cliff Cody Daniel Darryl Dave Dennis Derek Desheron	Don	Doug Duane Dwayne Dwight
+			Eli	Ernie Errol	Everret	Felix Fernando Franklin	Franky Freddy Garry	Gordon Greg
+			Guy	Harry Harvey Howie Isaac Isiah Jaime James Javier Jay Jeffrey Joey John
+			Julian Julio Karl Ken Kenny Kirk Larry Lars Lee	Leo	Leon Liam Marc Maurice Mickey
+			Mike Nate Nick Neil Norm Oscar Patty Paul Paulo	Pedro Perry	Peter Phil Preston
+			Quentin	Randy Raul Rich	Ricky Riley	Ronnie Ross	Salvador Sam Sean Stan Steve Ted
+			Terrance Tim Tommy Tony	Travis Trevor Tupac	Tyler Tyrone Victor	Wade
+		}
+		
+		female_names = {
+			Abigail	Alisha Alison Alyssa Amanda	Amy	Annie April	Aria Aubrey	Autumn
+			Ava	Avery Barbara Bella	Beth Brianna Brittney Brooklyn Camila Carla	Carly
+			Caroline Charlotte Chevy Chloe Christa Chrysler	Claire Clarissa	Danielle
+			Darlene	December Elleanor Ellen	Elly Emily Emma	Fae	Faith Fay February Frannie
+			Fransesca Gabby	Genesis	Gianna Grace Hannah Harley Harper Hayley Heather Hillary
+			Iris Isabella Jan Jane Janette January Jasmine Jayne Julia	July June Kayla	Kaylee
+			Kennedy	Krista Kristen Kylie Lacey Laura Layla Lea Leah	Lily Liz Lordes	Lori
+			Lucy Lydia Maddy Maggie	March Melissa Mia Miah Naomi Natalie Nicole	Nikky
+			Norah Norma	November Olivia	Opal Paisley Paula Penny Peyton	Piper Rachel Rebecca
+			Reina Rhianna Riley	Ruby Sadie Sammy Sara Savanah Scarlet September	Skylar Sofia
+			Steph Sue Taylor Tiffany Veronica Victoria Virginia	Vivian
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+		modifier = default_culture_modifier
+	}
+}
+
+spireling = {
+	graphical_cultures = { muslimgfx }
+	
+	londoner = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.1 0.75 0.1 }
+		
+		male_names = {
+			Acton Amersham Barking Brent Brixton Camden Chiswick Clapham Dagenham Deptford Edmonton
+			Eltham Euston Hackney Hammersmith Harrow Hillingdon Hornchurch Hounslow Hoxton Ilford Islington
+			Kensington Kingston Knightsbridge Lewisham Newham "Notting Hill" Oxford Paddington Peckham Rickmansworth Romford
+			Shadwell Slough Stratford Tottenham Upminster Wandsworth Waltham Wapping Watford Westminster
+		}
+		female_names = {
+			"Maida Vale" Angel Battersea Bethnal Bexley Bow Bromley Chelsea Croydon Crystal Ealing
+			Edgware	Finchley Greenwich Hampstead Haringey Havering Kew Lambeth Marylebone Merton Piccadilly Poplar Putney
+			Richmond Ruislip Shoreditch Southall Southwark Stepney Sutton Temple Tooting Vauxhall Victoria Wembley
+			Whitechapel	Wimbledon Woolwich
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		modifier = default_culture_modifier
+		allow_looting = yes
+	}
+	
+	mancunian = {
+		graphical_cultures = { englishgfx }
+		
+		color = { 0.2 0.9 0.2 }
+		
+		male_names = {
+			Altrincham Ardwick Ashton Beswick Bolton Cheadle Cheetham Clayton Crumpsall	Deansgate Denton Droylsden Eccles Fallsworth
+			Heywood	Leigh Moston Oldham	Radcliffe Rochdale Rusholme	Saddleworth	Salford	Shudehill Stockport	Stretford Trafford
+			Urmston	Withington Wythenshawe
+		}
+		
+		female_names = {
+			"Bowker Vale" Ancoats Audenshaw	Baguley	Blackley Broughton Bury	Castlefield	Cornbrook Didsbury Harpurhey Hattersley	Hazel
+			Hollinwood Hulme Langley Langworthy	Longsight Middleton	Monsall	Mosside	Newhey Piccadilly Pomona Tameside Timperley	Victoria
+			Whalley	Wigan Worsley
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+		modifier = default_culture_modifier
+		allow_looting = yes
+	
+	}
+}
+
+sea_group = {
+	graphical_cultures = { westerngfx }
+}

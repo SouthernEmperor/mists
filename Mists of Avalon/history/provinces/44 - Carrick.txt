@@ -1,0 +1,14 @@
+# 44 - Carrick (Central Cornwall)
+
+# County Title
+title = c_carrick
+
+# Settlements
+max_settlements = 4
+b_truro = castle
+b_st_austell = temple
+b_falmouth = castle
+
+# Misc
+culture = cornish
+religion = anglican

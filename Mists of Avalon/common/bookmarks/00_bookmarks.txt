@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "BM_FALL_OF_MAN"
+	desc = "BM_FALL_OF_MAN_DESC"
+	date = 427.6.22
+	
+	character = 1 #test character
+}

@@ -1,0 +1,12 @@
+# 45 - Caradon (East Cornwall)
+
+# County Title
+title = c_caradon
+
+# Settlements
+max_settlements = 3
+b_bodmin = castle
+
+# Misc
+culture = cornish
+religion = anglican

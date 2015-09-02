@@ -1,10 +1,34 @@
+#characters here are test/dummy characters; to  be removed eventually
+
 1 = {
 	name=Reus
 	dynasty=752
 	
-	religion=catholic
+	religion=kanthapuri
 	culture=sylheti
+	female=yes
 	
-	1027.01.15 = { birth=yes }
-	1087.09.09 = { death=yes }
+	400.01.15 = { birth=yes }
+	476.09.09 = { death=yes }
+}
+
+2 = {
+	name="Thoughtful Chuck"
+	religion=reform_jewish
+	culture=ianki
+	400.01.15 = { 
+		birth=yes
+		employer=1
+	}
+}
+
+3 = {
+	name=hoplitejoe
+	religion=sufi
+	culture=pakistani
+	employer=1
+		400.01.15 = { 
+		birth=yes
+		employer=1
+	}
 }

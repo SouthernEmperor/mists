@@ -1,5 +1,5 @@
 province;red;green;blue;x;x
-1;168;12;2;Isle of Wight;x
+1;42;99;78;North Celtic Sea;x
 2;126;153;179;Coast of Wight;x
 3;42;177;183;Coast of Brighton;x
 4;0;69;165;Strait of Dover;x
@@ -14,7 +14,7 @@ province;red;green;blue;x;x
 13;42;123;148;Coast of Berwick;x
 14;126;168;54;Firth of Forth;x
 15;84;126;21;Coast of Aberdeen;x
-16;0;84;40;Coast of Moray;x
+16;0;84;40;Moray Firth;x
 17;168;102;17;Pentland Firth;x
 18;0;105;145;Sea of the Hebrides;x
 19;168;81;167;Coast of Derry;x
@@ -26,7 +26,7 @@ province;red;green;blue;x;x
 25;168;171;182;Morecambe Bay;x
 26;126;99;144;East Irish Sea;x
 27;42;57;163;South Irish Sea;x
-28;0;99;170;Cardigan Bay;x
+28;0;104;163;Cardigan Bay;x
 29;42;210;153;St George's Channel;x
 30;0;60;10;Bristol Channel;x
 31;126;144;24;Coast of Cornwall;x
@@ -39,7 +39,7 @@ province;red;green;blue;x;x
 38;127;102;14;St Bride's Bay;x
 39;1;108;15;East Celtic Sea;x
 40;126;105;79;South Celtic Sea;x
-41;42;99;78;North Celtic Sea;x
+41;168;12;2;Isle of Wight;x
 42;126;96;179;Scilly;x
 43;168;99;52;Penwith;x
 44;0;102;180;Carrick;x
@@ -79,3 +79,296 @@ province;red;green;blue;x;x
 78;42;84;148;Reading;x
 79;84;87;21;Windsor;x
 80;168;189;67;Slough;x
+81;42;171;198;Chichester;x
+82;84;174;71;Arun;x
+83;0;168;70;Worthing;x
+84;126;177;199;Horsham;x
+85;84;93;6;Crawley;x
+86;126;162;69;Waverley;x
+87;84;159;196;Guildford;x
+88;168;180;72;Woking;x
+89;42;156;68;Runnymede;x
+90;43;138;183;Spelthorne;x
+91;168;150;67;Mole Valley;x
+92;84;9;226;Tandridge;x
+93;1;24;135;Croydon;x
+94;1;177;225;Southwark;x
+95;169;174;97;Ealing;x
+96;169;195;7;Westminster;x
+97;169;165;2;Tower Hamlets;x
+98;169;3;167;Greenwich;x
+99;85;159;1;Barnet;x
+100;43;171;3;Havering;x
+101;126;147;194;Brighton;x
+102;168;195;202;Lewes;x
+103;168;135;192;Wealden;x
+104;0;198;75;Rother;x
+105;0;0;205;Dartford;x
+106;84;6;206;Sevenoaks;x
+107;42;3;78;Medway;x
+108;126;9;79;Swale;x
+109;126;96;29;Canterbury;x
+110;84;93;156;Dover;x
+111;42;90;28;Shepway;x
+112;168;84;27;Maidstone;x
+113;84;162;161;Southend;x
+114;168;153;32;Thurrock;x
+115;0;156;160;Chelmsford;x
+116;42;159;33;Epping;x
+117;126;57;179;Tendring;x
+118;0;63;180;Colchester;x
+119;168;45;177;Braintree;x
+120;126;42;49;Watford;x
+121;85;129;146;Welwyn;x
+122;127;132;19;Broxbourne;x
+123;126;27;174;St Albans;x
+124;84;24;46;Dacorum;x
+125;168;30;47;Stevenage;x
+126;84;207;41;Beaconsfield;x
+127;84;135;176;Chiltern;x
+128;84;9;171;Wycombe;x
+129;0;3;170;Aylesbury;x
+130;126;210;169;Milton Keynes;x
+131;42;93;93;Ipswich;x
+132;0;90;220;Woodbridge;x
+133;168;87;92;Waveney;x
+134;84;81;91;Stowmarket;x
+135;168;126;47;St Edmundsbury;x
+136;84;150;51;Yarmouth;x
+137;42;123;98;Pastonacres;x
+138;0;120;225;Norwich;x
+139;168;117;97;Breckland;x
+140;126;129;99;Kings Lynn;x
+141;168;147;2;Fenland;x
+142;168;162;132;Ely;x
+143;168;177;7;Cambridge;x
+144;0;165;5;Huntingdonshire;x
+145;126;0;84;Peterborough;x
+146;84;12;86;Dunstable;x
+147;168;18;87;Luton;x
+148;126;15;214;Chicksands;x
+149;42;54;93;Bedford;x
+150;84;147;31;Didcot;x
+151;0;147;60;Oxford;x
+152;168;93;22;Cherwell;x
+153;0;78;55;Witney;x
+154;84;45;56;Cotswold;x
+155;42;132;198;Stroud;x
+156;84;135;71;Forest of Dean;x
+157;126;138;199;Gloucester;x
+158;126;183;79;Cheltenham;x
+159;168;36;182;Northampton;x
+160;126;3;49;Wellingborough;x
+161;126;33;54;Thrapston;x
+162;168;204;47;Corby;x
+163;126;201;174;Kettering;x
+164;84;198;46;Daventry;x
+165;0;162;40;Stratford;x
+166;84;153;166;Warwick;x
+167;42;165;168;Rugby;x
+168;42;150;38;Nuneaton;x
+169;0;147;165;Atherstone;x
+170;84;156;81;Bromsgrove;x
+171;0;75;195;Wyre Forest;x
+172;42;78;68;Wychavon;x
+173;84;81;196;Worcester;x
+174;42;201;53;Malvern;x
+175;169;183;197;Coventry;x
+176;127;6;69;Solihull;x
+177;127;75;179;Birmingham;x
+178;85;57;176;Sandwell;x
+179;1;63;85;Wolverhampton;x
+180;126;117;39;Harborough;x
+181;168;195;52;Blaby;x
+182;0;198;180;Leicester;x
+183;126;84;69;Bosworth;x
+184;84;114;166;Rutland;x
+185;42;111;38;Melton;x
+186;168;120;167;Charnwood;x
+187;42;126;168;Coalville;x
+188;42;108;223;Hereford;x
+189;126;195;39;Leominster;x
+190;84;138;36;Lichfield;x
+191;0;132;35;Cannock;x
+192;42;135;163;Burton;x
+193;168;102;222;Stafford;x
+194;42;12;178;Leek;x
+195;42;27;53;Stoke;x
+196;84;120;46;Lyme;x
+197;0;84;190;Holland;x
+198;84;63;151;Kesteven;x
+199;126;36;19;Boston;x
+200;42;60;23;Lindsey;x
+201;168;78;97;Grimsby;x
+202;126;81;154;Lincoln;x
+203;168;201;82;Scunthorpe;x
+204;42;84;98;Holderness;x
+205;126;198;209;Hull;x
+206;42;177;78;Beverley;x
+207;84;180;206;Bridlington;x
+208;84;195;81;Rushcliffe;x
+209;42;192;208;Sherwood;x
+210;0;189;80;Nottingham;x
+211;168;186;207;Broxtowe;x
+212;126;90;99;Mansfield;x
+213;84;87;226;Bassetlaw;x
+214;85;204;31;Swadlincote;x
+215;0;96;205;Derby;x
+216;169;210;32;Amber Valley;x
+217;0;171;140;Chesterfield;x
+218;84;177;141;Matlock;x
+219;127;87;89;High Peak;x
+220;168;63;72;Doncaster;x
+221;84;162;11;Rotherham;x
+222;127;198;164;Sheffield;x
+223;127;39;144;Barnsley;x
+224;43;33;143;Wakefield;x
+225;43;135;218;Selby;x
+226;43;66;8;Leeds;x
+227;85;69;136;Kirklees;x
+228;127;156;94;Calderdale;x
+229;127;9;139;Bradford;x
+230;168;24;222;Wirral;x
+231;84;48;226;Liverpool;x
+232;0;27;95;Sefton;x
+233;42;45;98;St Helens;x
+234;126;21;94;Wigan;x
+235;0;12;220;Bolton;x
+236;84;18;221;Oldham;x
+237;42;15;93;Salford;x
+238;42;0;218;Manchester;x
+239;168;207;217;Stockport;x
+240;126;54;214;Halton;x
+241;0;45;85;Warrington;x
+242;84;201;11;Chester;x
+243;84;3;141;Vale Royal;x
+244;168;96;192;Eddisbury;x
+245;126;6;14;Macclesfield;x
+246;42;198;138;Telford;x
+247;126;123;174;Ludlow;x
+248;168;57;87;Shrewsbury;x
+249;0;60;215;York;x
+250;84;66;216;Scarborough;x
+251;42;63;88;Ryedale;x
+252;126;93;64;Hambleton;x
+253;84;90;191;Harrogate;x
+254;84;33;146;Craven;x
+255;168;24;17;Richmondshire;x
+256;0;81;225;Ormskirk;x
+257;84;72;96;Chorley;x
+258;168;123;132;Blackburn;x
+259;168;138;7;Rosendale;x
+260;0;126;5;Ribble;x
+261;42;129;133;Blackpool;x
+262;84;132;6;Fylde;x
+263;168;15;227;Preston;x
+264;43;21;128;Lancaster;x
+265;1;183;155;Furness;x
+266;169;180;27;Allerdale;x
+267;127;177;154;Eden;x
+268;85;174;26;Carlisle;x
+269;0;66;200;Middlesborough;x
+270;168;159;167;Stockton;x
+271;168;174;42;Hartlepool;x
+272;84;111;201;Teesdale;x
+273;42;138;78;Easington;x
+274;84;141;206;Durham;x
+275;42;69;73;Derwentside;x
+276;127;69;44;Sunderland;x
+277;169;72;172;Gateshead;x
+278;1;75;45;Newcastle;x
+279;43;78;173;Tynedale;x
+280;169;117;52;Wansbeck;x
+281;85;111;51;Morpeth;x
+282;85;96;176;Alnwick;x
+283;43;93;48;Berwick;x
+284;1;90;175;Lindisfarne;x
+285;85;123;216;Flintshire;x
+286;127;207;9;Wrexham;x
+287;43;54;48;Denbighshire;x
+288;43;129;188;Anglesey;x
+289;43;117;23;Conwy;x
+290;1;114;150;Gwynedd;x
+291;43;198;193;Ceredigon;x
+292;127;120;59;Pembrokeshire;x
+293;169;123;187;Carmarthenshire;x
+294;43;87;18;Swansea;x
+295;127;108;149;Neath;x
+296;85;48;76;Bridgend;x
+297;169;210;137;Glamorgan;x
+298;169;54;77;Cardiff;x
+299;169;81;17;Newport;x
+300;85;105;21;Monmouthshire;x
+301;43;207;38;Torfaen;x
+302;85;147;191;Caerphilly;x
+303;43;132;153;Rhondda;x
+304;85;78;81;Powys;x
+305;43;6;203;Man;x
+306;127;81;209;Duns;x
+307;169;18;42;Roxburghshire;x
+308;1;129;25;Selkirkshire;x
+309;127;15;169;Annandale;x
+310;127;150;64;Nithsdale;x
+311;43;69;178;Stewartry;x
+312;43;105;213;Merrick;x
+313;127;0;39;Haddingtonshire;x
+314;85;210;166;Dalkeith;x
+315;43;102;148;Edinburgh;x
+316;1;87;210;Linlithgowshire;x
+317;169;201;37;Clydesdale;x
+318;43;192;163;Cumnock;x
+319;85;195;36;Kyle;x
+320;169;126;152;Motherwell;x
+321;127;123;24;Hamilton;x
+322;127;93;19;Eastwood;x
+323;85;75;16;Kilmarnock;x
+324;43;60;78;Cunninghame;x
+325;169;66;142;Inverclyde;x
+326;1;57;205;Renfrewshire;x
+327;1;72;80;Clydesbank;x
+328;85;60;141;Glasgow;x
+329;85;135;26;Strathkelvin;x
+330;169;186;162;Monklands;x
+331;1;21;170;Cumbernauld;x
+332;85;63;206;Falkirk;x
+333;127;3;4;Clackmannanshire;x
+334;127;174;189;Dunfermline;x
+335;43;42;138;Kirkcaldy;x
+336;43;162;158;St Andrews;x
+337;127;66;79;Dundee;x
+338;43;30;73;Angus;x
+339;43;201;8;Stirling;x
+340;1;180;190;Trossachs;x
+341;43;183;63;Kinrossshire;x
+342;169;171;32;Perth;x
+343;1;36;45;Strathtay;x
+344;1;210;195;Dunbartonshire;x
+345;85;180;161;Kincardineshire;x
+346;127;183;34;Aberdeen;x
+347;43;0;68;Buchan;x
+348;1;51;175;Moray;x
+349;169;207;67;Marr;x
+350;169;48;47;Nairnshire;x
+351;127;30;44;Cowal;x
+352;1;195;65;Bute;x
+353;1;201;200;Arran;x
+354;43;39;173;Kintyre;x
+355;127;168;159;Lorne;x
+356;169;189;227;Islay;x
+357;43;27;8;Coll;x
+358;127;33;9;Rum;x
+359;1;12;70;Skye;x
+360;127;186;99;Uist;x
+361;1;174;160;Seaforth;x
+362;169;45;82;Ardnamurchan;x
+363;1;162;95;Kilmallie;x
+364;127;12;204;Lochaber;x
+365;85;9;76;Badenoch;x
+366;43;204;73;Inverness;x
+367;85;72;51;Cromarty;x
+368;127;36;74;Ross;x
+369;169;39;202;Lochalsh;x
+370;127;204;194;Brora;x
+371;169;114;87;Sutherland;x
+372;169;129;217;Caithness;x
+373;43;75;208;Orkneys;x

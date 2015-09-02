@@ -1,4 +1,45 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-k_southengland;South England;;;;;;;;;;;;;x
+e_england;England;;;;;;;;;;;;;x
+k_southwest;South West;;;;;;;;;;;;;x
+d_cornwall;Cornwall;;;;;;;;;;;;;x
+c_scilly;Scilly;;;;;;;;;;;;;x
+b_hugh_town;Hugh Town;;;;;;;;;;;;;x
+b_st_marys;St Mary's;;;;;;;;;;;;;x
+b_tresco;Tresco;;;;;;;;;;;;;x
+c_penwith;Penwith;;;;;;;;;;;;;x
+b_camborne;Camborne;;;;;;;;;;;;;x
+b_st_ives;St Ives;;;;;;;;;;;;;x
+b_redruth;Redruth;;;;;;;;;;;;;x
+c_carrick;Carrick;;;;;;;;;;;;;x
+b_truro;Truro;;;;;;;;;;;;;x
+b_st_austell;St Austell;;;;;;;;;;;;;x
+b_falmouth;Falmouth;;;;;;;;;;;;;x
+b_newquay;Newquay;;;;;;;;;;;;;x
+c_caradon;Caradon;;;;;;;;;;;;;x
+b_bodmin;Bodmin;;;;;;;;;;;;;x
+b_bude;Bude;;;;;;;;;;;;;x
+b_saltash;Saltash;;;;;;;;;;;;;x
+k_southeast;South East;;;;;;;;;;;;;x
 d_hampshire;Hampshire;;;;;;;;;;;;;x
 c_isleofwight;Isle of Wight;;;;;;;;;;;;;x
+b_newport;Newport;;;;;;;;;;;;;x
+b_ryde;Ryde;;;;;;;;;;;;;x
+b_cowes;Cowes;;;;;;;;;;;;;x
+b_sandtown;Sandtown;;;;;;;;;;;;;x
+k_east;East;;;;;;;;;;;;;x
+k_west_midlands;West Midlands;;;;;;;;;;;;;x
+d_birmingham;Birmingham;;;;;;;;;;;;;x
+c_birmingham;Birmingham;;;;;;;;;;;;;x
+b_sparkhill;Sparkhill;;;;;;;;;;;;;x
+b_st_chad;St Chad;;;;;;;;;;;;;x
+b_yardley;Yardley;;;;;;;;;;;;;x
+b_digbeth;Digbeth;;;;;;;;;;;;;x
+b_highgate;Highgate;;;;;;;;;;;;;x
+b_ladywood;Ladywood;;;;;;;;;;;;;x
+b_edgbaston;Edgbaston;;;;;;;;;;;;;x
+k_east_midlands;East Midlands;;;;;;;;;;;;;x
+k_yorkshire;Yorkshire;;;;;;;;;;;;;x
+k_northwest;North West;;;;;;;;;;;;;x
+k_northeast;North East;;;;;;;;;;;;;x
+e_wales;Wales;;;;;;;;;;;;;x
+e_scotland;Scotland;;;;;;;;;;;;;x

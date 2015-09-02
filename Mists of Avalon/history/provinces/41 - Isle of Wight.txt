@@ -1,0 +1,13 @@
+# 41 - Isle of Wight
+
+# County Title
+title = c_isleofwight
+
+# Settlements
+max_settlements = 4
+b_newport = castle
+b_ryde = city
+
+# Misc
+culture = sylheti
+religion = kanthapuri

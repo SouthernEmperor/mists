@@ -1,0 +1,13 @@
+# 43 - Penwith (West Cornwall)
+
+# County Title
+title = c_penwith
+
+# Settlements
+max_settlements = 3
+b_camborne = castle
+b_st_ives = city
+
+# Misc
+culture = cornish
+religion = anglican

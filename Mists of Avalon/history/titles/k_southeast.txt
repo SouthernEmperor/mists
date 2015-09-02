@@ -1,0 +1,4 @@
+427.1.1 = {
+	holder = 1
+	law = true_cognatic_succession
+}
