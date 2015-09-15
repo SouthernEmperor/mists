@@ -1,0 +1,19 @@
+# 49 - Exeter
+
+# County Title
+title = c_exeter
+
+# Settlements
+max_settlements = 5
+b_exeter = castle
+b_exmouth = temple
+b_sidmouth = city
+
+# Misc
+culture = south_english
+#religion = anglican
+
+
+427.6.1 = {
+	religion = anglican
+}

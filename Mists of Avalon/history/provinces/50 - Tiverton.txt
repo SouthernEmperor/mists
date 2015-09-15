@@ -1,17 +1,16 @@
-# 43 - Penwith (West Cornwall)
+# 50 - Tiverton
 
 # County Title
-title = c_penwith
+title = c_tiverton
 
 # Settlements
 max_settlements = 3
-b_camborne = castle
-b_st_ives = city
+b_tiverton = castle
+b_crediton = castle
 
 # Misc
 culture = cornish
 #religion = anglican
-
 
 427.6.1 = {
 	religion = anglican

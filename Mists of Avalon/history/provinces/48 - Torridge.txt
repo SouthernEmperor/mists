@@ -1,12 +1,12 @@
-# 43 - Penwith (West Cornwall)
+# 48 - Torridge
 
 # County Title
-title = c_penwith
+title = c_torridge
 
 # Settlements
-max_settlements = 3
-b_camborne = castle
-b_st_ives = city
+max_settlements = 4
+b_bideford = castle
+b_okehampton = castle
 
 # Misc
 culture = cornish

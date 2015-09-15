@@ -1,17 +1,16 @@
-# 43 - Penwith (West Cornwall)
+# 51 - Barnstaple
 
 # County Title
-title = c_penwith
+title = c_barnstaple
 
 # Settlements
 max_settlements = 3
-b_camborne = castle
-b_st_ives = city
+b_barnstaple = castle
+b_ilfracombe = temple
 
 # Misc
 culture = cornish
 #religion = anglican
-
 
 427.6.1 = {
 	religion = anglican

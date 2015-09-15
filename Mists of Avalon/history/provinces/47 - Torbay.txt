@@ -1,12 +1,13 @@
-# 43 - Penwith (West Cornwall)
+# 47 - Torbay
 
 # County Title
-title = c_penwith
+title = c_torbay
 
 # Settlements
-max_settlements = 3
-b_camborne = castle
-b_st_ives = city
+max_settlements = 5
+b_torquay = castle
+b_peignton = temple
+b_brixham = city
 
 # Misc
 culture = cornish

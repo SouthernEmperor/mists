@@ -9,4 +9,9 @@ b_bodmin = castle
 
 # Misc
 culture = cornish
-religion = anglican
+#religion = anglican
+
+
+427.6.1 = {
+	religion = anglican
+}

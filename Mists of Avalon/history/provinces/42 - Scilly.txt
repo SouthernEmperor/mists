@@ -10,4 +10,8 @@ b_st_marys = temple
 
 # Misc
 culture = cornish
-religion = scillonian
+#religion = scillonian
+
+427.6.1 = {
+	religion = scillonian
+}
