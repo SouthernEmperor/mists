@@ -1,0 +1,20 @@
+# 98 - London Boroughs of Greenwich/Bromley/Bexley
+
+# County Title
+title = c_greenwich
+
+# Settlements
+max_settlements = 7
+b_greenwich = castle
+b_bromley = city
+b_woolwich = temple
+b_bexleyheath = castle
+b_backenham = city
+
+# Misc
+culture = sylheti
+#religion = kanthapuri
+
+427.6.1 = {
+	religion = kanthapuri
+}

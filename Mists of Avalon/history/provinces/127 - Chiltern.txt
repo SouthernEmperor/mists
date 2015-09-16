@@ -1,0 +1,17 @@
+# 127 - Chiltern
+
+# County Title
+title = c_chiltern
+
+# Settlements
+max_settlements = 4
+b_amersham = castle
+b_chesham = temple
+
+# Misc
+culture = hindustani
+#religion = hindu
+
+427.6.1 = {
+	religion = hindu
+}

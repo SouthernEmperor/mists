@@ -1,0 +1,17 @@
+# 126 - Beaconsfield (South Bucks)
+
+# County Title
+title = c_beaconsfield
+
+# Settlements
+max_settlements = 3
+b_beaconsfield = castle
+b_gerrards_cross = city
+
+# Misc
+culture = hindustani
+#religion = hindu
+
+427.6.1 = {
+	religion = hindu
+}

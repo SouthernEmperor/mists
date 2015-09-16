@@ -1,0 +1,18 @@
+# 128 - Wycombe
+
+# County Title
+title = c_wycombe
+
+# Settlements
+max_settlements = 5
+b_high_wycombe = castle
+b_princes_risborough = temple
+b_marlow = city
+
+# Misc
+culture = hindustani
+#religion = kanthapuri
+
+427.6.1 = {
+	religion = kanthapuri
+}

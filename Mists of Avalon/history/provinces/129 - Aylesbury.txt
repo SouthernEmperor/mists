@@ -1,0 +1,18 @@
+# 129 - Aylesbury
+
+# County Title
+title = c_aylesbury
+
+# Settlements
+max_settlements = 5
+b_aylesbury = castle
+b_buckingham = temple
+b_waddesdon = temple
+
+# Misc
+culture = mercian
+#religion = jewish
+
+427.6.1 = {
+	religion = jewish
+}

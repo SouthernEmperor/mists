@@ -1,0 +1,16 @@
+# 80 - SLOUGH!
+
+# County Title
+title = c_slough
+
+# Settlements
+max_settlements = 1
+b_slough = city
+
+# Misc
+culture = hindustani
+#religion = ahmadi
+
+427.6.1 = {
+	religion = ahmadi
+}

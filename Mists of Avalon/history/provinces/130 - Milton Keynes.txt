@@ -1,0 +1,21 @@
+# 130 - Milton Keynes
+
+# County Title
+title = c_milton_keynes
+
+# Settlements
+max_settlements = 7
+b_bletchley = castle
+b_bradwell = temple
+b_wolverton = city
+b_stony_stratford = city
+b_great_linford = temple
+b_walton = city
+
+# Misc
+culture = mercian
+#religion = jewish
+
+427.6.1 = {
+	religion = jewish
+}

@@ -10,9 +10,9 @@ b_st_ives = city
 
 # Misc
 culture = cornish
-#religion = anglican
+#religion = scillonian
 
 
 427.6.1 = {
-	religion = anglican
+	religion = scillonian
 }

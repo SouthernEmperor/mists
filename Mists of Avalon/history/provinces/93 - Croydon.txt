@@ -1,0 +1,18 @@
+# 93 - London Boroughs of Croydon/Half of Richmond-upon-Thames/Kingston-upon-Thames/Merton/Sutton
+
+# County Title
+title = c_croydon
+
+# Settlements
+max_settlements = 7
+b_sutton = tribal
+b_croydon = temple
+b_kingston = tribal
+
+# Misc
+culture = londoner
+#religion = spireling_pagan
+
+427.6.1 = {
+	religion = spireling_pagan
+}

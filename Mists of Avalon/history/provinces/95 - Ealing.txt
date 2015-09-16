@@ -1,0 +1,18 @@
+# 94 - London Boroughs of Ealing/Hillingdon/Hounslow/Half of Richmond-upon-Thames
+
+# County Title
+title = c_ealing
+
+# Settlements
+max_settlements = 7
+b_ealing = tribal
+b_uxbridge = tribal
+b_chiswick = temple
+
+# Misc
+culture = londoner
+#religion = hindi
+
+427.6.1 = {
+	religion = spireling_pagan
+}

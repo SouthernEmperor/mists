@@ -1,0 +1,20 @@
+# 94 - London Boroughs of Southwark/Lewisham/Lambeth/Wandsworth
+
+# County Title
+title = c_southwark
+
+# Settlements
+max_settlements = 7
+b_brixton = tribal
+b_south_bank = temple
+b_peckham = temple
+b_wandsworth = tribal
+b_lewisham = tribal
+
+# Misc
+culture = londoner
+#religion = spireling_pagan
+
+427.6.1 = {
+	religion = spireling_pagan
+}

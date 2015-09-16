@@ -1,0 +1,20 @@
+# 96 - London Boroughs of Westminster/Camden/Islington/Kensington and Chelsea/Hammersmith and Fulham
+
+# County Title
+title = c_westminster
+
+# Settlements
+max_settlements = 7
+b_kensington = tribal
+b_westminster = temple
+b_camden = tribal
+b_islington = tribal
+b_hammersmith = tribal
+
+# Misc
+culture = londoner
+#religion = spireling_pagan
+
+427.6.1 = {
+	religion = spireling_pagan
+}

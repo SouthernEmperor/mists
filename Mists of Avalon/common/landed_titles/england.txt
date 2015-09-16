@@ -6,13 +6,13 @@ e_england = {
 		color={ 177 60 100 }
 		color2={ 255 255 23 }
 			
-		culture = south_english
-			
 		d_hampshire = {
-				color={ 174 23 122 }
-				color2={ 255 255 20 }
-				
-				capital = 41
+			color={ 174 23 122 }
+			color2={ 255 255 20 }
+			
+			capital = 41
+
+			culture = south_english
 				
 			c_isleofwight = {
 				color={ 176 25 124 }
@@ -27,6 +27,290 @@ e_england = {
 				b_sandtown = {
 				}
 			}
+		}
+		
+		d_berkshire = {
+			color = { 63 255 0 }
+			color2 = { 255 255 20 }
+			
+			capital = 79 #Windsor
+			
+			culture = south_english
+			
+			c_windsor = {
+				color = { 63 255 60 }
+				color2 = { 255 255 20 }			
+			
+				b_windsor = {
+				}
+				b_maidenhead = {
+				}
+				b_bracknell = {
+				}
+				b_eton = {
+				}
+				b_sandhurst = {
+				}
+				b_crowthorne = {
+				}
+			}
+			
+			c_slough = {
+				color = { 63 255 80 }
+				color2 = { 255 255 20 }
+				
+				b_slough = {
+				}
+			}
+		}
+		
+		d_buckinghamshire = {
+			color = { 174 23 122 }
+			color2 = { 255 255 20 }
+			
+			capital = 129 #Aylesbury
+			
+			culture = hindustani
+			
+			c_beaconsfield = {
+				color = { 224 23 122 }
+				color2 = { 255 255 20 }
+				
+				b_beaconsfield = {
+				}
+				b_gerrards_cross = {
+				}
+				b_burnham = {
+				}
+			}
+			
+			c_chiltern = {
+				color = { 204 23 122 }
+				color2 = { 255 255 20 }
+				
+				b_amersham = {
+				}
+				b_chesham = {
+				}
+				b_chalfont = {
+				}
+				b_chartridge = {
+				}
+			}
+			
+			c_wycombe = {
+				color = { 184 23 122 }
+				color2 = { 255 255 20 }
+
+				b_high_wycombe = {
+				}
+				b_princes_risborough = {
+				}
+				b_marlow = {
+				}
+				b_hampden = {
+				}
+				b_fawley = {
+				}
+			}
+			
+			c_aylesbury = {
+				color = { 144 23 122 }
+				color2 = { 255 255 20 }
+				
+				b_aylesbury = {
+				}
+				b_buckingham = {
+				}
+				b_waddesdon = {
+				}
+				b_wendover = {
+				}
+				b_winslow = {
+				}
+			}
+			
+			c_milton_keynes = {
+				color = { 224 23 142 }
+				color2 = { 255 255 20 }
+				
+				b_bletchley = {
+				}
+				b_bradwell = {
+				}
+				b_wolverton = {
+				}
+				b_stony_stratford = {
+				}
+				b_great_linford = {
+				}
+				b_walton = {
+				}
+				b_newport_pagnell = {
+				}
+			}
+		}
+	}
+	
+	k_london = {
+		color={ 167 10 100 }
+		color2={ 255 255 20 }
+		
+		capital = 96 #Westminster
+		
+		d_london = {
+		
+			color={ 167 10 100 }
+			color2={ 255 255 20 }
+			
+			capital = 96 #Westminster
+			
+			culture = londoner
+			
+			c_croydon = {
+				color = { 209 159 232 }
+				
+				b_sutton = {
+				}
+				b_croydon = {
+				}
+				b_kingston = {
+				}
+				b_richmond = {
+				}
+				b_wimbledon = {
+				}
+				b_merton = {
+				}
+				b_coulsdon = {
+				}
+			}
+			c_southwark = {
+				color = { 255 246 0 }
+			
+				b_brixton = {
+				}
+				b_south_bank = {
+				}
+				b_peckham = {
+				}
+				b_wandsworth = {
+				}
+				b_lewisham = {
+				}
+				b_tooting = {
+				}
+				b_battersea = {
+				}
+			}
+			c_ealing = {
+				color = { 255 0 127 }
+				
+				b_ealing = {
+				}
+				b_uxbridge = {
+				}
+				b_chiswick = {
+				}
+				b_hounslow = {
+				}
+				b_hayes = {
+				}
+				b_acton = {
+				}
+				b_ruislip = {
+				}
+			}
+			c_westminster = {
+				color = { 227 0 34 }
+				
+				b_kensington = {
+				}
+				b_westminster = {
+				}
+				b_camden = {
+				}
+				b_islington = {
+				}
+				b_hammersmith = {
+				}
+				b_chelsea = {
+				}
+				b_fulham = {
+				}
+			}
+			c_tower_hamlets = {
+				color = { 237 135 45 }
+				
+				b_stratford = {
+				}
+				b_whitechapel = {
+				}
+				b_canary_wharf = {
+				}
+				b_hackney = {
+				}
+				b_newham = {
+				}
+				b_shoreditch = {
+				}
+				b_bow = {
+				}
+			}
+			c_greenwich = {
+				color = { 191 148 228 }
+				
+				b_greenwich = {
+				}
+				b_bromley = {
+				}
+				b_woolwich = {
+				}
+				b_bexleyheath = {
+				}
+				b_backenham = {
+				}
+				b_eltham = {
+				}
+				b_thamesmead = {
+				}
+			}
+			c_barnet = {
+				color = { 195 33 72 }
+				
+				b_barnet = {
+				}
+				b_harrow = {
+				}
+				b_tottenham = {
+				}
+				b_enfield = {
+				}
+				b_wembley = {
+				}
+				b_haringey = {
+				}
+				b_edgware = {
+				}
+			}
+			c_havering = {
+				color = { 8 232 222 }
+				
+				b_ilford = {
+				}
+				b_barking = {
+				}
+				b_romford = {
+				}
+				b_walthamslow = {
+				}
+				b_dagenham = {
+				}
+				b_upminster = {
+				}
+				b_chingford = {
+				}
+			}			
 		}
 	}
 	
@@ -91,6 +375,101 @@ e_england = {
 				b_bude = {
 				}
 				b_saltash = {
+				}
+			}
+		}
+		
+		d_devon = {
+			color = { 235 76 66 }
+			color2={ 255 255 255 }
+			
+			capital = 49
+			
+			culture = cornish
+			
+			c_plymouth = {
+				color = { 235 136 136 }
+				color2={ 255 255 255 }
+				
+				b_plymouth = {
+				}
+				b_ivybridge = {
+				}
+				b_tavistock = {
+				}
+				b_bickleigh = {
+				}
+				b_wembury = {
+				}
+			}
+			
+			c_torbay = {
+				color = { 235 116 116 }
+				color2={ 255 255 255 }
+				
+				b_torquay = {
+				}
+				b_paignton = {
+				}
+				b_brixham = {
+				}
+				b_totnes = {
+				}
+				b_newton_abbot = {
+				}
+			}
+			
+			c_torridge = {
+				color = { 235 96 96 }
+				color2={ 255 255 255 }
+				
+				b_bideford = {
+				}
+				b_okehampton = {
+				}
+				b_holsworthy = {
+				}
+				b_chagford = {
+				}
+			}
+			
+			c_exeter = {
+				color = { 235 106 106 }
+				color2={ 255 255 255 }
+				
+				b_exeter = {
+				}
+				b_exmouth = {
+				}
+				b_sidmouth = {
+				}
+				b_honiton = {
+				}
+				b_seaton = {
+				}
+			}
+			
+			c_tiverton = {
+				color = { 235 86 86 }
+				color2={ 255 255 255 }
+				
+				b_tiverton = {
+				}
+				b_crediton = {
+				}
+				b_cullompton = {
+				}
+			}
+			
+			c_barnstaple = {
+				color = { 235 76 76 }
+				color2={ 255 255 255 }
+				
+				b_barnstaple = {
+				}
+				b_ilfracombe = {
+				}
+				b_lynton = {
 				}
 			}
 		}

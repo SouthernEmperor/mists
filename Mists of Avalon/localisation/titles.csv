@@ -19,6 +19,38 @@ c_caradon;Caradon;;;;;;;;;;;;;x
 b_bodmin;Bodmin;;;;;;;;;;;;;x
 b_bude;Bude;;;;;;;;;;;;;x
 b_saltash;Saltash;;;;;;;;;;;;;x
+d_devon;Devon;;;;;;;;;;;;;x
+c_plymouth;Plymouth;;;;;;;;;;;;;x
+b_plymouth;Plymouth;;;;;;;;;;;;;x
+b_ivybridge;Ivybridge;;;;;;;;;;;;;x
+b_tavistock;Tavistock;;;;;;;;;;;;;x
+b_bickleigh;Bickleigh;;;;;;;;;;;;;x
+b_wembury;Wembury;;;;;;;;;;;;;x
+c_torbay;Torbay;;;;;;;;;;;;;x
+b_torquay;Torquay;;;;;;;;;;;;;x
+b_paignton;Paignton;;;;;;;;;;;;;x
+b_brixham;Brixham;;;;;;;;;;;;;x
+b_totnes;Totnes;;;;;;;;;;;;;x
+b_newton_abbot;Newton Abbot;;;;;;;;;;;;;x
+c_torridge;Torridge;;;;;;;;;;;;;x
+b_bideford;Bideford;;;;;;;;;;;;;x
+b_okehampton;Okehampton;;;;;;;;;;;;;x
+b_holsworthy;Holsworthy;;;;;;;;;;;;;x
+b_chagford;Chagford;;;;;;;;;;;;;x
+c_exeter;Exeter;;;;;;;;;;;;;x
+b_exeter;Exeter;;;;;;;;;;;;;x
+b_exmouth;Exmouth;;;;;;;;;;;;;x
+b_sidmouth;Sidmouth;;;;;;;;;;;;;x
+b_honiton;Honiton;;;;;;;;;;;;;x
+b_seaton;Seaton;;;;;;;;;;;;;x
+c_tiverton;Tiverton;;;;;;;;;;;;;x
+b_tiverton;Tiverton;;;;;;;;;;;;;x
+b_crediton;Crediton;;;;;;;;;;;;;x
+b_cullompton;Cullompton;;;;;;;;;;;;;x
+c_barnstaple;Barnstaple;;;;;;;;;;;;;x
+b_barnstaple;Barnstaple;;;;;;;;;;;;;x
+b_ilfracombe;Ilfracombe;;;;;;;;;;;;;x
+b_lynton;Lynton;;;;;;;;;;;;;x
 k_southeast;South East;;;;;;;;;;;;;x
 d_hampshire;Hampshire;;;;;;;;;;;;;x
 c_isleofwight;Isle of Wight;;;;;;;;;;;;;x
@@ -26,6 +58,111 @@ b_newport;Newport;;;;;;;;;;;;;x
 b_ryde;Ryde;;;;;;;;;;;;;x
 b_cowes;Cowes;;;;;;;;;;;;;x
 b_sandtown;Sandtown;;;;;;;;;;;;;x
+d_berkshire;Berkshire;;;;;;;;;;;;;x
+c_windsor;Windsor;;;;;;;;;;;;;x
+b_windsor;Windsor;;;;;;;;;;;;;x
+b_maidenhead;Maidenhead;;;;;;;;;;;;;x
+b_bracknell;Bracknell;;;;;;;;;;;;;x
+b_eton;Eton;;;;;;;;;;;;;x
+b_sandhurst;Sandhurst;;;;;;;;;;;;;x
+b_crowthorne;Crowthorne;;;;;;;;;;;;;x
+c_slough;Slough;;;;;;;;;;;;;x
+b_slough;Slough;;;;;;;;;;;;;x
+d_buckinghamshire;Buckinghamshire;;;;;;;;;;;;;x
+c_beaconsfield;Beaconsfield;;;;;;;;;;;;;x
+b_beaconsfield;Beaconsfield;;;;;;;;;;;;;x
+b_gerrards_cross;Gerrards Cross;;;;;;;;;;;;;x
+b_burnham;Burnham;;;;;;;;;;;;;x
+c_chiltern;Chiltern;;;;;;;;;;;;;x
+b_amersham;Amersham;;;;;;;;;;;;;x
+b_chesham;Chesham;;;;;;;;;;;;;x
+b_chalfont;Chalfont;;;;;;;;;;;;;x
+b_chartridge;Chartridge;;;;;;;;;;;;;x
+c_wycombe;Wycombe;;;;;;;;;;;;;x
+b_high_wycombe;High Wycombe;;;;;;;;;;;;;x
+b_princes_risborough;Princes Risborough;;;;;;;;;;;;;x
+b_marlow;Marlow;;;;;;;;;;;;;x
+b_hampden;Hampden;;;;;;;;;;;;;x
+b_fawley;Fawley;;;;;;;;;;;;;x
+c_aylesbury;Aylesbury;;;;;;;;;;;;;x
+b_aylesbury;Aylesbury;;;;;;;;;;;;;x
+b_buckingham;Buckinghamshire;;;;;;;;;;;;;x
+b_waddesdon;Waddesdon;;;;;;;;;;;;;x
+b_wendover;Wendover;;;;;;;;;;;;;x
+b_winslow;Winslow;;;;;;;;;;;;;x
+c_milton_keynes;Milton Keynes;;;;;;;;;;;;;x
+b_bletchley;Bletchley;;;;;;;;;;;;;x
+b_bradwell;Bradwell;;;;;;;;;;;;;x
+b_wolverton;Wolverton;;;;;;;;;;;;;x
+b_stony_stratford;Stony Stratford;;;;;;;;;;;;;x
+b_walton;Walton;;;;;;;;;;;;;x
+b_newport_pagnell;Newport Pagnell;;;;;;;;;;;;;x
+k_london;London;;;;;;;;;;;;;x
+d_london;London;;;;;;;;;;;;;x
+c_croydon;Croydon;;;;;;;;;;;;;x
+b_sutton;Sutton;;;;;;;;;;;;;x
+b_croydon;Croydon;;;;;;;;;;;;;x
+b_kingston;Kingston-upon-Thames;;;;;;;;;;;;;x
+b_richmond;Richmond-upon-Thames;;;;;;;;;;;;;x
+b_wimbledon;Wimbledon;;;;;;;;;;;;;x
+b_merton;Merton;;;;;;;;;;;;;x
+b_coulsdon;Coulsdon;;;;;;;;;;;;;x
+c_ealing;Ealing;;;;;;;;;;;;;x
+b_ealing;Ealing;;;;;;;;;;;;;x
+b_uxbridge;Uxbridge;;;;;;;;;;;;;x
+b_chiswick;Chiswick;;;;;;;;;;;;;x
+b_hounslow;Hounslow;;;;;;;;;;;;;x
+b_hayes;Hayes;;;;;;;;;;;;;x
+b_acton;Acton;;;;;;;;;;;;;;x
+b_ruislip;Ruislip;;;;;;;;;;;;;x
+c_southwark;Southwark;;;;;;;;;;;;;x
+b_brixton;Brixton;;;;;;;;;;;;;x
+b_south_bank;South Bank;;;;;;;;;;;;;x
+b_peckham;Peckham;;;;;;;;;;;;;x
+b_wandsworth;Wandsworth;;;;;;;;;;;;;x
+b_lewisham;Lewisham;;;;;;;;;;;;;x
+b_tooting;Tooting;;;;;;;;;;;;;x
+b_battersea;Battersea;;;;;;;;;;;;;x
+c_westminster;Westminster;;;;;;;;;;;;;x
+b_kensington;Kensington;;;;;;;;;;;;;x
+b_westminster;Westminster;;;;;;;;;;;;;x
+b_camden;Camden;;;;;;;;;;;;;x
+b_islington;Islington;;;;;;;;;;;;;x
+b_hammersmith;Hammersmith;;;;;;;;;;;;;x
+b_chelsea;Chelsea;;;;;;;;;;;;;x
+b_fulham;Fulham;;;;;;;;;;;;;x
+c_tower_hamlets;Tower Hamlets;;;;;;;;;;;;;x
+b_stratford;Stratford;;;;;;;;;;;;;x
+b_whitechapel;Whitechapel;;;;;;;;;;;;;x
+b_canary_wharf;Canary Wharf;;;;;;;;;;;;;x
+b_hackney;Hackney;;;;;;;;;;;;;x
+b_shoreditch;Shoreditch;;;;;;;;;;;;;x
+b_newham;Newham;;;;;;;;;;;;;x
+b_poplar;Poplar;;;;;;;;;;;;;x
+c_greenwich;Greenwich;;;;;;;;;;;;;x
+b_greenwich;Greenwich;;;;;;;;;;;;;x
+b_bromley;Bromley;;;;;;;;;;;;;x
+b_woolwich;Woolwich;;;;;;;;;;;;;x
+b_bexleyheath;Bexleyheath;;;;;;;;;;;;;x
+b_backenham;Backenham;;;;;;;;;;;;;x
+b_eltham;Eltham;;;;;;;;;;;;;x
+b_thamesmead;Thamesmead;;;;;;;;;;;;;x
+c_barnet;Barnet;;;;;;;;;;;;;x
+b_barnet;Barnet;;;;;;;;;;;;;x
+b_harrow;Harrow;;;;;;;;;;;;;x
+b_tottenham;Tottenham;;;;;;;;;;;;;x
+b_enfield;Enfield;;;;;;;;;;;;;x
+b_wembley;Wembley;;;;;;;;;;;;;x
+b_haringey;Haringey;;;;;;;;;;;;;x
+b_edgware;Edgware;;;;;;;;;;;;;x
+c_havering;Havering;;;;;;;;;;;;;x
+b_ilford;Ilford;;;;;;;;;;;;;x
+b_barking;Barking;;;;;;;;;;;;;x
+b_romford;Romford;;;;;;;;;;;;;x
+b_walthamslow;Walthamslow;;;;;;;;;;;;;x
+b_dagenham;Dagenham;;;;;;;;;;;;;x
+b_upminster;Upminster;;;;;;;;;;;;;x
+b_chingford;Chingford;;;;;;;;;;;;;x
 k_east;East;;;;;;;;;;;;;x
 k_west_midlands;West Midlands;;;;;;;;;;;;;x
 d_birmingham;Birmingham;;;;;;;;;;;;;x

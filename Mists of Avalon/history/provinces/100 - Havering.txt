@@ -1,0 +1,20 @@
+# 100 - London Boroughs of Havering/Redbridge/Barking and Dagenham/Waltham Forest
+
+# County Title
+title = c_havering
+
+# Settlements
+max_settlements = 7
+b_ilford = castle
+b_barking = castle
+b_romford = temple
+b_walthamslow = castle
+b_dagenham = city
+
+# Misc
+culture = south_english
+#religion = kanthapuri
+
+427.6.1 = {
+	religion = kanthapuri
+}

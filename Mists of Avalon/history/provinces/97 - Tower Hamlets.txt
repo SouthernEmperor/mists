@@ -1,0 +1,20 @@
+# 98 - London Boroughs of Tower Hamlets/Hackney/Newham
+
+# County Title
+title = c_tower_hamlets
+
+# Settlements
+max_settlements = 7
+b_stratford = tribal
+b_whitechapel = temple
+b_canary_wharf = temple
+b_hackney = tribal
+b_newham = tribal
+
+# Misc
+culture = londoner
+#religion = spireling_pagan
+
+427.6.1 = {
+	religion = spireling_pagan
+}
